@@ -1,0 +1,29 @@
+var group__DMIC__Peripheral__Access__Layer =
+[
+    [ "DMIC Register Masks", "group__DMIC__Register__Masks.html", "group__DMIC__Register__Masks" ],
+    [ "DMIC_Type", "structDMIC__Type.html", [
+      [ "CHANEN", "structDMIC__Type.html#ae22c5c678e3b833b3b81fdd5b21b86e6", null ],
+      [ "DC_CTRL", "structDMIC__Type.html#a97fbd2271355298cd0722e975719e191", null ],
+      [ "DECRESET", "structDMIC__Type.html#aabbad290a71a182505ff0a441956e4b9", null ],
+      [ "DIVHFCLK", "structDMIC__Type.html#a2d131cf710cfc224deeb81c6b495d072", null ],
+      [ "FIFO_CTRL", "structDMIC__Type.html#aee5fa8417f86369f95425f3bfbbfd0e4", null ],
+      [ "FIFO_DATA", "structDMIC__Type.html#a087c091c4a3c58ad721e5b76504e3974", null ],
+      [ "FIFO_STATUS", "structDMIC__Type.html#a7a6626a562cc92126ab9fe106cf3ebae", null ],
+      [ "GAINSHIFT", "structDMIC__Type.html#aaa0e1d7254d8c6434f22f60ba346c8ff", null ],
+      [ "GLOBAL_COUNT_VAL", "structDMIC__Type.html#a6c27ffd0a231af65bef16b06cbbb0220", null ],
+      [ "GLOBAL_SYCN_EN", "structDMIC__Type.html#ac8906ee877958ce7d4ab7557a99cf706", null ],
+      [ "HWVADGAIN", "structDMIC__Type.html#a1d3fb99c60f0ffb0ade89ec569adeaa6", null ],
+      [ "HWVADHPFS", "structDMIC__Type.html#a993b25883a262d1c64f7bbb7f751aa60", null ],
+      [ "HWVADLOWZ", "structDMIC__Type.html#a0579d77e3974b83cc46cd71c0730547b", null ],
+      [ "HWVADRSTT", "structDMIC__Type.html#abeb734cc7a6c9fb383aba258de1d396d", null ],
+      [ "HWVADST10", "structDMIC__Type.html#a6121f75b86956bb336c5f41b8417af80", null ],
+      [ "HWVADTHGN", "structDMIC__Type.html#a6339a4425de8a128f8f18a9cb0bbc09a", null ],
+      [ "HWVADTHGS", "structDMIC__Type.html#ab9a344130b5c65bcbe223b52c64cf4dc", null ],
+      [ "OSR", "structDMIC__Type.html#ac3ab3656964c7373fdfb0846898c037f", null ],
+      [ "PHY_CTRL", "structDMIC__Type.html#aa3d4a92cbe0c3844405091084c1d893d", null ],
+      [ "PREAC2FSCOEF", "structDMIC__Type.html#a9e73634c0865c8a29f48bfdea097ee37", null ],
+      [ "PREAC4FSCOEF", "structDMIC__Type.html#a09facb2cfdf70b9cddd71197bba31239", null ],
+      [ "USE2FS", "structDMIC__Type.html#aadbadbb0f3968da6474063c3f28ca614", null ]
+    ] ],
+    [ "DMIC_CHANNEL_COUNT", "group__DMIC__Peripheral__Access__Layer.html#ga74dffe884b86e0752b10bb230ed54758", null ]
+];

@@ -1,0 +1,5 @@
+var group__mcuxClOsccaSm2__Macros =
+[
+    [ "MCUXCLOSCCASM2_SM2P256_SIZE_", "group__MCUXCLOSCCASM2__SM2P256__SIZE__.html", "group__MCUXCLOSCCASM2__SM2P256__SIZE__" ],
+    [ "MCUXCLOSCCASM2_STATUS_", "group__MCUXCLOSCCASM2__STATUS__.html", "group__MCUXCLOSCCASM2__STATUS__" ]
+];

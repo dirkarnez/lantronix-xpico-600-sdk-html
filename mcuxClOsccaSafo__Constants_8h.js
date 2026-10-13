@@ -1,0 +1,5 @@
+var mcuxClOsccaSafo__Constants_8h =
+[
+    [ "MCUXCLOSCCASAFO_STATUS_ERROR", "group__MCUXCLOSCCASAFO__STATUS__.html#ga64525ad9739d0a868ed2d8ff840fb52d", null ],
+    [ "MCUXCLOSCCASAFO_STATUS_OK", "group__MCUXCLOSCCASAFO__STATUS__.html#ga1175a593fac23cd857035b14063e0632", null ]
+];

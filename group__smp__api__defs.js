@@ -1,0 +1,25 @@
+var group__smp__api__defs =
+[
+    [ "BT_smp_authentication_failure", "group__smp__api__defs.html#ga3ecfef1dce928b07371609320113b782", null ],
+    [ "BT_smp_authentication_request_reply", "group__smp__api__defs.html#ga853459f107e8561516f5a68f9d954f47", null ],
+    [ "BT_smp_get_bd_addr", "group__smp__api__defs.html#gac381b263b656c8365d3de572c2800be4", null ],
+    [ "BT_smp_get_bd_handle", "group__smp__api__defs.html#gae97bf11944454a04d3b99f3de78b6103", null ],
+    [ "BT_smp_key_exchange_info_request_reply", "group__smp__api__defs.html#ga8b7f5b23299d94abeca2d299c578f349", null ],
+    [ "BT_smp_long_term_key_request_reply", "group__smp__api__defs.html#gad6b1338620596ef00a6fb7955d61bc61", null ],
+    [ "BT_smp_passkey_entry_request_reply", "group__smp__api__defs.html#ga6b7b67369dfe019235ea9c500fd6f82d", null ],
+    [ "BT_smp_sign_data", "group__smp__api__defs.html#ga8c444fc702b681fc80c5db1a1658eef8", null ],
+    [ "BT_smp_update_peer_address", "group__smp__api__defs.html#gaf111136b0443441b0f1ebccec82542d2", null ],
+    [ "BT_smp_verify_sign_data", "group__smp__api__defs.html#ga3611e0caea4fc874a8c4b50efc05bddc", null ],
+    [ "BT_smp_add_device", "group__smp__api__defs.html#ga9c525195eae39ba17d4a3c27ef7ae6ec", null ],
+    [ "BT_smp_authenticate", "group__smp__api__defs.html#gade8f090f0307213e72374392bebbf27f", null ],
+    [ "BT_smp_create_resolvable_pvt_addr", "group__smp__api__defs.html#gad907d87f8af4c1fc9a2a94abb0a7e109", null ],
+    [ "BT_smp_data_sign", "group__smp__api__defs.html#ga852dc4d36200bba618f7f2e1b4839b20", null ],
+    [ "BT_smp_encrypt", "group__smp__api__defs.html#gad8c56f4701fbad8635bac2adc56b7fb7", null ],
+    [ "BT_smp_get_device_keys", "group__smp__api__defs.html#ga187b90aca077cfdab5b414df15ac168e", null ],
+    [ "BT_smp_get_device_security_info", "group__smp__api__defs.html#gac57cfdfe16131aaa0a3055ee7f761166", null ],
+    [ "BT_smp_get_pairing_req_pdu", "group__smp__api__defs.html#gad03b47140a9c6852a4c026d43e25d19b", null ],
+    [ "BT_smp_get_raw_lesc_ltk", "group__smp__api__defs.html#gab996e15c1e48dde0d9cd80f0d25fc4ec", null ],
+    [ "BT_smp_register_user_interface", "group__smp__api__defs.html#ga67df0cbb68ace20ce7f058a5aa514206", null ],
+    [ "BT_smp_update_security_info", "group__smp__api__defs.html#gadf0d0b9e6cbf4428222e243dec5726f6", null ],
+    [ "BT_smp_verify_resolvable_pvt_addr", "group__smp__api__defs.html#ga10ab6f2edb578b8913585c8ee1945e3f", null ]
+];

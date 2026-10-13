@@ -1,0 +1,26 @@
+var PERI__SYSPLL__TCPU_8h =
+[
+    [ "PERI_SYSPLL_TCPU_H_", "PERI__SYSPLL__TCPU_8h.html#a06c3302a79a3acc8ef6dd22d2cfb9159", null ],
+    [ "SYSPLL_TCPU_ATEST_CTRL_REG_ATEST_CTRL", "group__SYSPLL__TCPU__Register__Masks.html#ga0395d83dd8a615f358644b397f26f6cc", null ],
+    [ "SYSPLL_TCPU_CLKTREE_CTRL_ONE_REG_CLKTREE_CTRL_ONE", "group__SYSPLL__TCPU__Register__Masks.html#ga86f60718e0903c6a6090f993e0aeaca0", null ],
+    [ "SYSPLL_TCPU_CLKTREE_CTRL_TWO_REG_CLKTREE_CTRL_TWO", "group__SYSPLL__TCPU__Register__Masks.html#gaa6295acdb5553b7ca6a5b6a4c94801ac", null ],
+    [ "SYSPLL_TCPU_GPIO_CTRL_REG_GPIO_CTRL", "group__SYSPLL__TCPU__Register__Masks.html#ga1b8b560bfcfe083459f17ff0f3f7b17e", null ],
+    [ "SYSPLL_TCPU_REG_RO_REG_REG_RO", "group__SYSPLL__TCPU__Register__Masks.html#gaa97fb0a2c680f7bc99cf00288d449716", null ],
+    [ "SYSPLL_TCPU_RESERVED_HI_REG_RESERVED_HI", "group__SYSPLL__TCPU__Register__Masks.html#ga2591ddd43a47f514674e87bff0b6250f", null ],
+    [ "SYSPLL_TCPU_RESERVED_LO_REG_RESERVED_LO", "group__SYSPLL__TCPU__Register__Masks.html#ga4491cd65aa88f846d1a115de2e881199", null ],
+    [ "SYSPLL_TCPU_SYS_CTRL_REG_SYS_CTRL", "group__SYSPLL__TCPU__Register__Masks.html#gad354a667ec71e0be59eff0df607f027a", null ],
+    [ "SYSPLL_TCPU_SYSBYPASS_SOC_CTRL_ONE_RO_REG_SYSBYPASS_SOC_CTRL_ONE_RO", "group__SYSPLL__TCPU__Register__Masks.html#ga30126dfe8b306768b5cb1e2e74cb1eeb", null ],
+    [ "SYSPLL_TCPU_SYSBYPASS_SOC_CTRL_ONE_RW_REG_SYSBYPASS_SOC_CTRL_ONE_RW", "group__SYSPLL__TCPU__Register__Masks.html#ga98cc1cd27d383070ec43e34ffd9f165e", null ],
+    [ "SYSPLL_TCPU_SYSBYPASS_SOC_CTRL_THREE_RO_REG_SYSBYPASS_SOC_CTRL_THREE_RO", "group__SYSPLL__TCPU__Register__Masks.html#gad8c5f318dac9f0df9929ea3cf9a90131", null ],
+    [ "SYSPLL_TCPU_SYSBYPASS_SOC_CTRL_THREE_RW_REG_SYSBYPASS_SOC_CTRL_THREE_RW", "group__SYSPLL__TCPU__Register__Masks.html#ga355a825b7ba9e91bac235d8b0c153760", null ],
+    [ "SYSPLL_TCPU_SYSBYPASS_SOC_CTRL_TWO_RO_REG_SYSBYPASS_SOC_CTRL_TWO_RO", "group__SYSPLL__TCPU__Register__Masks.html#ga1f7f70e44d4d0a413fbc2d6f86877f5f", null ],
+    [ "SYSPLL_TCPU_SYSBYPASS_SOC_CTRL_TWO_RW_REG_SYSBYPASS_SOC_CTRL_TWO_RW", "group__SYSPLL__TCPU__Register__Masks.html#gafdf70af997678ee9bc4a37a1729edf43", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_FIVE_REG_TCPU_CTRL_FIVE", "group__SYSPLL__TCPU__Register__Masks.html#ga042e725c4cf32764f0999a6350b4b5df", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_FOUR_REG_TCPU_CTRL_FOUR", "group__SYSPLL__TCPU__Register__Masks.html#gaeb954ac702a6d2863317061565ff27a4", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_ONE_REG_REG_TCPU_CTRL_ONE", "group__SYSPLL__TCPU__Register__Masks.html#gaed71a941237735c44359fb33202b1de6", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_ONE_REG_RSVD0", "group__SYSPLL__TCPU__Register__Masks.html#ga45445e22bc9f13429fa8855cf9c0980a", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_ONE_REG_RSVD1", "group__SYSPLL__TCPU__Register__Masks.html#gaccc5e1c22c7a5e1a713ac3a4cf8abefe", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_SIX_REG_TCPU_CTRL_SIX", "group__SYSPLL__TCPU__Register__Masks.html#ga2f72a85390642d0b926cc8a841b11acc", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_THREE_REG_TCPU_CTRL_THREE", "group__SYSPLL__TCPU__Register__Masks.html#ga33d69224b2f600cd36c4071dfedec44b", null ],
+    [ "SYSPLL_TCPU_TCPU_CTRL_TWO_REG_TCPU_CTRL_TWO", "group__SYSPLL__TCPU__Register__Masks.html#ga15b02086f24d936efe48b117f8a00531", null ]
+];

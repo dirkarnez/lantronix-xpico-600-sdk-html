@@ -1,0 +1,106 @@
+var group__power =
+[
+    [ "fsl_power.h", "fsl__power_8h.html", null ],
+    [ "_power_gdet_data", "struct__power__gdet__data.html", null ],
+    [ "_power_init_config", "struct__power__init__config.html", [
+      [ "gateCauRefClk", "struct__power__init__config.html#ab90a5e2c7a3364d1dadd73c102c5d201", null ],
+      [ "iBuck", "struct__power__init__config.html#a55d5596c1930361bf9c285018cf25027", null ]
+    ] ],
+    [ "_power_sleep_config", "struct__power__sleep__config.html", [
+      [ "clkGate", "struct__power__sleep__config.html#a892a82d8fff6f1402d1acf40f9e21285", null ],
+      [ "memPdCfg", "struct__power__sleep__config.html#a5b898c026ba7b44efac5a901627725d6", null ],
+      [ "pm2AnaPuCfg", "struct__power__sleep__config.html#a4586be721198267debfa2529057f1a80", null ],
+      [ "pm2MemPuCfg", "struct__power__sleep__config.html#afeb1a7e500c2baf9b9bda1a414877dee", null ],
+      [ "pm3BuckCfg", "struct__power__sleep__config.html#a27b30ccd708f4fe9ae4c76d1181de844", null ]
+    ] ],
+    [ "ltrx_power_level_application", "structltrx__power__level__application.html", [
+      [ "applicationName", "structltrx__power__level__application.html#af8b1a955ee34634357d1be352e340942", null ],
+      [ "helpHtml", "structltrx__power__level__application.html#a24ca891dd10426667ce3204c16a7de43", null ]
+    ] ],
+    [ "FSL_POWER_DRIVER_VERSION", "group__power.html#ga566dde551cccfbff838b7f6f474e525b", null ],
+    [ "capt_pulse_timer_callback_t", "group__power.html#ga27614bbc9b2ddb5be79ebf3b493bc615", null ],
+    [ "capt_slow_pulse_edge_t", "group__power.html#gab6e8edfed27c5931c5fa9f01c494b6d8", null ],
+    [ "capt_slow_pulse_width_t", "group__power.html#ga35f705d6055e4c0b207b7385f99ff7f0", null ],
+    [ "power_gdet_data_t", "group__power.html#ga56463a3a422fd7ba4e0a479f0af0b6bc", null ],
+    [ "power_init_config_t", "group__power.html#ga656d8ea19c2bc458743339a2366d007f", null ],
+    [ "power_load_gdet_cfg", "group__power.html#gafbaa1ec292fd07dec42248088a7e520e", null ],
+    [ "power_reset_cause_t", "group__power.html#ga5731721ae7520fcf5933ef34107581be", null ],
+    [ "power_reset_source_t", "group__power.html#ga27482d93d394df1f66e07b5734f43e8d", null ],
+    [ "power_sleep_config_t", "group__power.html#ga8fc13b4b4cbffd97dedb4bcc83ce3ae6", null ],
+    [ "power_switch_callback_t", "group__power.html#gaa68a654067d4142a369d1a2338a7f5ab", null ],
+    [ "power_wakeup_edge_t", "group__power.html#gaa949e68c10097feca89bc7a38d924899", null ],
+    [ "power_wakeup_pin_t", "group__power.html#ga4bbb0e35a8c1eb83d84c615604f8c6b6", null ],
+    [ "_capt_slow_pulse_edge", "group__power.html#ga2683e9fcbeea2fc37e286e19d1712455", null ],
+    [ "_capt_slow_pulse_width", "group__power.html#gafbf2fad5e1cae7b9c456e339b072b697", null ],
+    [ "_clk_gate_bits", "group__power.html#ga856a0d84a3eb831e9519b716d82d173c", null ],
+    [ "_clk_pm3_buck_bits", "group__power.html#ga4e2937c528ce745991d200dfdde7bb46", [
+      [ "kPOWER_Pm3Buck18", "group__power.html#gga4e2937c528ce745991d200dfdde7bb46ae4e6f78304d4a52ec0faedbd7779c194", null ],
+      [ "kPOWER_Pm3Buck11", "group__power.html#gga4e2937c528ce745991d200dfdde7bb46a42cc51fcce2ee65a419d785a0ce837a5", null ]
+    ] ],
+    [ "_pm2_ana_pu_bits", "group__power.html#gaca8cbe6fd47ba6f4122c4085e429daa3", null ],
+    [ "_pm2_mem_pu_bits", "group__power.html#ga4c059f257169edda058a78c5c6abedf4", null ],
+    [ "_power_reset_cause", "group__power.html#ga4f9cbcb0fc76d89cc99e67a87dc4fe86", [
+      [ "kPOWER_ResetCauseSysResetReq", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86add97305054b0434dbb4a925f9ac3d27d", null ],
+      [ "kPOWER_ResetCauseLockup", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86a1d88e53be6ef491d1c39a5abca217355", null ],
+      [ "kPOWER_ResetCauseWdt", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86a8982e04ff2113a3dab12baf222aecea9", null ],
+      [ "kPOWER_ResetCauseApResetReq", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86aa7e3aac74de6f28e3f8c0aa3a1d3e887", null ],
+      [ "kPOWER_ResetCauseCodeWdt", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86a98fb6e868ea576bf53ad2a74a9ad590c", null ],
+      [ "kPOWER_ResetCauseItrc", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86a4693b8d1f2020487918e5f59c1f1391e", null ],
+      [ "kPOWER_ResetCauseResetB", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86a453787fbc5ac59a96c6b18eae4e8f2bf", null ],
+      [ "kPOWER_ResetCauseAll", "group__power.html#gga4f9cbcb0fc76d89cc99e67a87dc4fe86ad113108aa5edc80b48fc24ca63c23d49", null ]
+    ] ],
+    [ "_power_reset_source", "group__power.html#gadd623ef231d435809a2312202bfd48b0", [
+      [ "kPOWER_ResetSourceSysResetReq", "group__power.html#ggadd623ef231d435809a2312202bfd48b0a0953e279c3c0edb3f82b2dfa0197fe16", null ],
+      [ "kPOWER_ResetSourceLockup", "group__power.html#ggadd623ef231d435809a2312202bfd48b0aa5beb9117d7f89dd429d9f217afc2012", null ],
+      [ "kPOWER_ResetSourceWdt", "group__power.html#ggadd623ef231d435809a2312202bfd48b0a4b1bd1b473a000992d323aebc0f29e58", null ],
+      [ "kPOWER_ResetSourceApResetReq", "group__power.html#ggadd623ef231d435809a2312202bfd48b0a0c152f97fdcfee24ad6a5eac40591182", null ],
+      [ "kPOWER_ResetSourceCodeWdt", "group__power.html#ggadd623ef231d435809a2312202bfd48b0a7a6ea6e85df4d90ddddee07c3da4d47e", null ],
+      [ "kPOWER_ResetSourceItrc", "group__power.html#ggadd623ef231d435809a2312202bfd48b0ad7f10a6110e766441aa713ee6b80e6cd", null ],
+      [ "kPOWER_ResetSourceAll", "group__power.html#ggadd623ef231d435809a2312202bfd48b0aceb18f0e15f7ecfce1a890648477a1b6", null ]
+    ] ],
+    [ "_power_wakeup_edge", "group__power.html#gacce541bca1d176e1961798b680816c11", [
+      [ "kPOWER_WakeupEdgeLow", "group__power.html#ggacce541bca1d176e1961798b680816c11abdf64621fe43e7ec49374a6c6de10929", null ],
+      [ "kPOWER_WakeupEdgeHigh", "group__power.html#ggacce541bca1d176e1961798b680816c11acaea8ed5a0e6888a7b3c54234ba6b817", null ]
+    ] ],
+    [ "_power_wakeup_pin", "group__power.html#ga09b212bbdcc2716bd2ff8592df81b5cd", [
+      [ "kPOWER_WakeupPin0", "group__power.html#gga09b212bbdcc2716bd2ff8592df81b5cda867775d3bc884898980e819d2dd3c090", null ],
+      [ "kPOWER_WakeupPin1", "group__power.html#gga09b212bbdcc2716bd2ff8592df81b5cda2004495c5f0395860b8ab9e420c4afaa", null ]
+    ] ],
+    [ "AT_QUICKACCESS_SECTION_CODE", "group__power.html#ga7642403965bd8aa2bcb615d2f86b37f2", null ],
+    [ "AT_QUICKACCESS_SECTION_CODE", "group__power.html#gae85ea0f79d84a13d855552e7079dec72", null ],
+    [ "AT_QUICKACCESS_SECTION_CODE", "group__power.html#ga19038b5299d8baee965a3d580feefdae", null ],
+    [ "AT_QUICKACCESS_SECTION_CODE", "group__power.html#ga2c4ce7f35346b2493f2fee56d654ff72", null ],
+    [ "ltrx_power_level_application_permit_shutdown", "group__power.html#gaf77efb8811930948f155618d7bc2e7e2", null ],
+    [ "ltrx_power_level_application_register", "group__power.html#ga62e36bb981ac76c75a0dfa3815815760", null ],
+    [ "ltrx_power_level_application_request_full_power", "group__power.html#ga5bf636c0bbd00116cfb5432e86e436d1", null ],
+    [ "PMU_DisableBleWakeup", "group__power.html#gaa8a3f693641b4c32484a37b4a2c114f3", null ],
+    [ "PMU_DisableWlanWakeup", "group__power.html#gaa1bd0777f2675ec48f0bf22fb99c6444", null ],
+    [ "PMU_EnableBleWakeup", "group__power.html#gab3bc1455fb41819e7077621a7f6bb3e1", null ],
+    [ "PMU_EnableWlanWakeup", "group__power.html#gaab7e03be1b090db1fb686e1f8a06dcb2", null ],
+    [ "POWER_ClearResetCause", "group__power.html#ga6ff4692155daa94d22b2e751af596c59", null ],
+    [ "POWER_ClearWakeupStatus", "group__power.html#ga2cca21532e7db1495510d8fb90aba465", null ],
+    [ "POWER_ConfigCauInSleep", "group__power.html#ga2c305619c23b3de3fd7c8b306a8120e4", null ],
+    [ "POWER_ConfigWakeupPin", "group__power.html#gae91cbd63f31ad284c4debffcaf92078b", null ],
+    [ "POWER_DisableCaptPulseTimer", "group__power.html#ga1ca32b5560566c3c8df7abc9802701f2", null ],
+    [ "POWER_DisableResetSource", "group__power.html#gafcb467157adbfd4eec68db7562778c9f", null ],
+    [ "POWER_DisableWakeup", "group__power.html#ga35a07e8a0aeb90f7e1b66d858f0c2ff2", null ],
+    [ "POWER_EnableCaptFastPulseTimer", "group__power.html#ga6a456016557e09590a0e09a9c1fe478e", null ],
+    [ "POWER_EnableCaptSlowPulseTimer", "group__power.html#ga4e2e2c3218aa5230945a9060f32b294d", null ],
+    [ "POWER_EnableResetSource", "group__power.html#gaed5ab0a3ebe1417e4085a648c818f777", null ],
+    [ "POWER_EnableWakeup", "group__power.html#gae12b475b13b02084b134fc57ebe86351", null ],
+    [ "POWER_GetCurrentSleepConfig", "group__power.html#gaee529da96c7dce754141fdfcb08a85d1", null ],
+    [ "POWER_GetResetCause", "group__power.html#ga7ad8f2e97ae2f12c5c29aa1dc9b1d388", null ],
+    [ "POWER_GetWakenMode", "group__power.html#ga49c79a0387b5c15a30e74f566fce7d56", null ],
+    [ "POWER_GetWakeupStatus", "group__power.html#ga79f0d384601d14e17e33156b9e5e4228", null ],
+    [ "Power_InitLoadGdetCfg", "group__power.html#ga694de241c7adddf49fe583e1df1c2527", null ],
+    [ "POWER_InitPowerConfig", "group__power.html#ga7e3069420b312dbc310fc76b86e7a92e", null ],
+    [ "POWER_InitVoltage", "group__power.html#gafb2e465e8baf03a2df90a9c648be2783", null ],
+    [ "POWER_PowerOffBle", "group__power.html#ga921c8bc6708f59f29285073c14788f03", null ],
+    [ "POWER_PowerOffGau", "group__power.html#ga6691e9ba78689fb28c7fec1060ffa65f", null ],
+    [ "POWER_PowerOffWlan", "group__power.html#ga6c1acb02c2d227a78a3775a176af6b81", null ],
+    [ "POWER_PowerOnBle", "group__power.html#gae3dd8b831b76cf3fee525bc773bd3825", null ],
+    [ "POWER_PowerOnGau", "group__power.html#ga534bb8afc12a4d77755134b5055e4934", null ],
+    [ "POWER_PowerOnWlan", "group__power.html#ga1199170bd435bd30ffc78f35c8f77fc2", null ],
+    [ "POWER_SetPowerSwitchCallback", "group__power.html#ga119251664f72202e14df93049996c614", null ],
+    [ "POWER_TrimSvc", "group__power.html#ga07b6ce7220a2729877ce105d3cce025a", null ]
+];

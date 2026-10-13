@@ -1,0 +1,27 @@
+var struct__wlan__dbg =
+[
+    [ "last_cmd_act", "struct__wlan__dbg.html#a2978949c33f63bebace9386ba8498625", null ],
+    [ "last_cmd_id", "struct__wlan__dbg.html#a36f012a630fbc5f78797660d158a1840", null ],
+    [ "last_cmd_index", "struct__wlan__dbg.html#a0fd3c667702e342eb8d5138e0927241b", null ],
+    [ "last_cmd_resp_id", "struct__wlan__dbg.html#a99bad2f4c69092c8775e9d90edbf372e", null ],
+    [ "last_cmd_resp_index", "struct__wlan__dbg.html#a750054d1818579de50512b2bab73cb8d", null ],
+    [ "last_event", "struct__wlan__dbg.html#a3ae15a11719e2d7e1021912b660a4736", null ],
+    [ "last_event_index", "struct__wlan__dbg.html#a0ac1dbf99941fb065ecd30794cf3a389", null ],
+    [ "last_int_status", "struct__wlan__dbg.html#af62ead6db10e2dee9088e3003a895f6b", null ],
+    [ "num_cmd_assoc_failure", "struct__wlan__dbg.html#ab742c16c444844f94a13ed8aba135b97", null ],
+    [ "num_cmd_assoc_success", "struct__wlan__dbg.html#a78f629f16ee1e7081b1c61bbe0d381ac", null ],
+    [ "num_cmd_deauth", "struct__wlan__dbg.html#a715ce1ac1091ae3368f8251eaf6de302", null ],
+    [ "num_cmd_host_to_card_failure", "struct__wlan__dbg.html#a1b48a7569cc8f5ddfec2f2475cc632d8", null ],
+    [ "num_cmd_sleep_cfm_host_to_card_failure", "struct__wlan__dbg.html#af40380aaea61dda2e1ee42858aa1aaea", null ],
+    [ "num_cmd_timeout", "struct__wlan__dbg.html#a0f238cfd68fa88112fd66c6b18c469af", null ],
+    [ "num_cmdevt_card_to_host_failure", "struct__wlan__dbg.html#a32fc62383b42d9718e31cf95ec49630f", null ],
+    [ "num_event_deauth", "struct__wlan__dbg.html#a928118b4f79401dc89d1f54ed31b48e7", null ],
+    [ "num_event_disassoc", "struct__wlan__dbg.html#aee0b0fb49ca75bd2780a0c7219bd506c", null ],
+    [ "num_event_link_lost", "struct__wlan__dbg.html#af2858d95d18b2435be9a8b297cd04ba5", null ],
+    [ "num_int_read_failure", "struct__wlan__dbg.html#a5eb2a39a7493b4161750598c68086cd0", null ],
+    [ "num_rx_card_to_host_failure", "struct__wlan__dbg.html#a6cf55cbb3c9482b097e573d7faa3f49b", null ],
+    [ "num_tx_host_to_card_failure", "struct__wlan__dbg.html#a2ed6e158c6be87f49a41e18cc6151676", null ],
+    [ "num_tx_timeout", "struct__wlan__dbg.html#ad2c40b241efc036a182112631c734303", null ],
+    [ "timeout_cmd_act", "struct__wlan__dbg.html#a33eae612da842f09223222176320fa96", null ],
+    [ "timeout_cmd_id", "struct__wlan__dbg.html#a265bb5d2f98525b1c85e2d41074c54b5", null ]
+];

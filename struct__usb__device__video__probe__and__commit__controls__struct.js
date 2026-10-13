@@ -1,0 +1,25 @@
+var struct__usb__device__video__probe__and__commit__controls__struct =
+[
+    [ "bFormatIndex", "struct__usb__device__video__probe__and__commit__controls__struct.html#abe1677e7d8881b88ca3b065ee158b4b0", null ],
+    [ "bFrameIndex", "struct__usb__device__video__probe__and__commit__controls__struct.html#a82bcd3f678a7879afb5e9e18bc4cd82c", null ],
+    [ "bMaxVersion", "struct__usb__device__video__probe__and__commit__controls__struct.html#a76d940f9c989564f811b360b7419eb10", null ],
+    [ "bmFramingInfo", "struct__usb__device__video__probe__and__commit__controls__struct.html#acefe42293632dd27ff81f3f0d2dc2813", null ],
+    [ "bmHint", "struct__usb__device__video__probe__and__commit__controls__struct.html#aef1876640ad8854c27203ad890d6f3b3", null ],
+    [ "bMinVersion", "struct__usb__device__video__probe__and__commit__controls__struct.html#ab3735f2b51b6619ab135a607e8322721", null ],
+    [ "bPreferedVersion", "struct__usb__device__video__probe__and__commit__controls__struct.html#a1baca105f272187458c7771226572098", null ],
+    [ "dwClockFrequency", "struct__usb__device__video__probe__and__commit__controls__struct.html#a2ac8ccd0d5feb4779df5c35589ba42aa", null ],
+    [ "dwFrameInterval", "struct__usb__device__video__probe__and__commit__controls__struct.html#a0fbf265938dedc00a2668ad8f3678c0e", null ],
+    [ "dwFrameInterval", "struct__usb__device__video__probe__and__commit__controls__struct.html#a5cffe4c473218d627571024e7695b212", null ],
+    [ "dwMaxPayloadTransferSize", "struct__usb__device__video__probe__and__commit__controls__struct.html#afaeb61914976e97c3898ad2437cb5aad", null ],
+    [ "dwMaxVideoFrameSize", "struct__usb__device__video__probe__and__commit__controls__struct.html#a897d43649ad65213894e2983ef3d5cc8", null ],
+    [ "reserved", "struct__usb__device__video__probe__and__commit__controls__struct.html#ab0378f2af8f5dd5ac6dcdc59ed5aef5c", null ],
+    [ "wCompQuality", "struct__usb__device__video__probe__and__commit__controls__struct.html#a704a3d6a1b11e5e5ee49d7d67039b3f9", null ],
+    [ "wCompQuality", "struct__usb__device__video__probe__and__commit__controls__struct.html#a732f804c92c1a1d9429297e842c106df", null ],
+    [ "wCompWindowSize", "struct__usb__device__video__probe__and__commit__controls__struct.html#ae33afc44a029d9a8fc229aea175a5391", null ],
+    [ "wCompWindowSize", "struct__usb__device__video__probe__and__commit__controls__struct.html#ab310d6e3d530d4ae5ea688e79fb9d0e6", null ],
+    [ "wDelay", "struct__usb__device__video__probe__and__commit__controls__struct.html#a1b1203d3f7189ccdf02b201cce26d1c1", null ],
+    [ "wKeyFrameRate", "struct__usb__device__video__probe__and__commit__controls__struct.html#a63258163cbc3258ee23a3b0dc0e61b91", null ],
+    [ "wKeyFrameRate", "struct__usb__device__video__probe__and__commit__controls__struct.html#aa3dfe6909ff5e2479f5c91f37c20b92f", null ],
+    [ "wPFrameRate", "struct__usb__device__video__probe__and__commit__controls__struct.html#ac89cf9b3ffbfc3c0099912869873684e", null ],
+    [ "wPFrameRate", "struct__usb__device__video__probe__and__commit__controls__struct.html#a97d71b9d8435a7830f855701562ad294", null ]
+];

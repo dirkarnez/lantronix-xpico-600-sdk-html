@@ -1,0 +1,24 @@
+var group__CACHE64__CTRL__Register__Masks =
+[
+    [ "CACHE64_CTRL_CCR_ENCACHE", "group__CACHE64__CTRL__Register__Masks.html#ga9ac84ad14e997c573aa9c6b0a5a917ea", null ],
+    [ "CACHE64_CTRL_CCR_ENWRBUF", "group__CACHE64__CTRL__Register__Masks.html#gaaac1ac1d085e25893302b13d36ff8965", null ],
+    [ "CACHE64_CTRL_CCR_GO", "group__CACHE64__CTRL__Register__Masks.html#ga11fbd4a8bcbd89b17358c9bd2da738d2", null ],
+    [ "CACHE64_CTRL_CCR_INVW0", "group__CACHE64__CTRL__Register__Masks.html#gac5b42b3fb1f05ba9f97f1f0308bb7706", null ],
+    [ "CACHE64_CTRL_CCR_INVW1", "group__CACHE64__CTRL__Register__Masks.html#ga203ab0d73dd7600a9541d46fb3f4cd81", null ],
+    [ "CACHE64_CTRL_CCR_PUSHW0", "group__CACHE64__CTRL__Register__Masks.html#ga05f004daac9d1bb6f900a0b398c9492b", null ],
+    [ "CACHE64_CTRL_CCR_PUSHW1", "group__CACHE64__CTRL__Register__Masks.html#ga2eb1d4b1515dd307432fc3ad982414e8", null ],
+    [ "CACHE64_CTRL_CCVR_DATA", "group__CACHE64__CTRL__Register__Masks.html#ga7f423dab4fd6d4a3a6fd81bd708ece2b", null ],
+    [ "CACHE64_CTRL_CLCR_CACHEADDR", "group__CACHE64__CTRL__Register__Masks.html#gadb63ddcfad4dee4907692d3bd87115c9", null ],
+    [ "CACHE64_CTRL_CLCR_LACC", "group__CACHE64__CTRL__Register__Masks.html#ga581650c2338736fa5f2faf679faab97b", null ],
+    [ "CACHE64_CTRL_CLCR_LADSEL", "group__CACHE64__CTRL__Register__Masks.html#gabacd675c93a07925b49bcdaf011a9ad3", null ],
+    [ "CACHE64_CTRL_CLCR_LCIMB", "group__CACHE64__CTRL__Register__Masks.html#ga3288a50b1adef96c3d384283b39151e7", null ],
+    [ "CACHE64_CTRL_CLCR_LCIVB", "group__CACHE64__CTRL__Register__Masks.html#gaf601eea4cf756d648dc645d6d7cac262", null ],
+    [ "CACHE64_CTRL_CLCR_LCMD", "group__CACHE64__CTRL__Register__Masks.html#gabc8935eeb1537226c9453be61f45b18d", null ],
+    [ "CACHE64_CTRL_CLCR_LCWAY", "group__CACHE64__CTRL__Register__Masks.html#gadac654c015e379954b7fad92b40fe5ec", null ],
+    [ "CACHE64_CTRL_CLCR_LGO", "group__CACHE64__CTRL__Register__Masks.html#gadbf108a7901b7bc66c7591582654bfdd", null ],
+    [ "CACHE64_CTRL_CLCR_TDSEL", "group__CACHE64__CTRL__Register__Masks.html#ga907eb912fdd2fcb713a5140d11138a3a", null ],
+    [ "CACHE64_CTRL_CLCR_WSEL", "group__CACHE64__CTRL__Register__Masks.html#ga4ad0651db2095a37e98a9dce00e6e71b", null ],
+    [ "CACHE64_CTRL_CSAR_LGO", "group__CACHE64__CTRL__Register__Masks.html#ga8fb6df2d056ac9c3c48587d049dc260b", null ],
+    [ "CACHE64_CTRL_CSAR_PHYADDR27_1", "group__CACHE64__CTRL__Register__Masks.html#ga232c36560f0e9e5e6afb0684a634e831", null ],
+    [ "CACHE64_CTRL_CSAR_PHYADDR31_29", "group__CACHE64__CTRL__Register__Masks.html#ga94dc78e18b31c05311731718fb352888", null ]
+];

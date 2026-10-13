@@ -1,0 +1,26 @@
+var avrcp_8h =
+[
+    [ "BT_AVRCP_BATTERY_STATUS_NORMAL", "group__bt__avrcp.html#ga4b772543f2c39b51407a9e86a6e701a0", null ],
+    [ "BT_AVRCP_BOW_ERROR_INVALID_DIRECTION", "group__bt__avrcp.html#ga32521545d5df20b6b5e363146e2e2ca3", null ],
+    [ "BT_AVRCP_CA_SUCCESS_RSP", "group__bt__avrcp.html#gaf6bbb5e553da94a4e13ecbfc827090f2", null ],
+    [ "BT_AVRCP_CAP_ID_COMPANY_ID", "group__bt__avrcp.html#ga81dbcff05f4832dfdd6c9ba975da27b2", null ],
+    [ "BT_AVRCP_COMMAND_TYPE_CONTROL", "group__bt__avrcp.html#ga06f7f211583cffe3922defd0ea814bbc", null ],
+    [ "BT_AVRCP_COVER_ART_PSM", "group__bt__avrcp.html#ga8125abaa8d66318f24fe89e1288b9fc5", null ],
+    [ "BT_AVRCP_EVENT_PLAYBACK_STATUS_CHANGED", "group__bt__avrcp.html#gad051d8e1b54b02cccfe8e6b5ffc56cc8", null ],
+    [ "BT_AVRCP_ITEM_TYPER_MEDIA_PLAYER", "group__bt__avrcp.html#ga41ec3f6aa43bf489972b52625990951f", null ],
+    [ "BT_AVRCP_MEDIA_ATTR_ID_MEDIA_TITLE", "group__bt__avrcp.html#ga5e601dd0cf3c3d0a71e4d17035c181b7", null ],
+    [ "BT_AVRCP_METADATA_ERROR_INVALID_COMMAND", "group__bt__avrcp.html#ga4fad1db1f66db4aa0cc2c5d69438ec4f", null ],
+    [ "BT_AVRCP_OP_ID_SELECT", "group__bt__avrcp.html#gabdc275a7855115a8b4e24a94a7a95450", null ],
+    [ "BT_AVRCP_OPCODE_UNIT_INFO", "group__bt__avrcp.html#gae4b47b9cb9e0bbae0f1e04f72f53a870", null ],
+    [ "BT_AVRCP_PACKET_TYPE_SINGLE", "group__bt__avrcp.html#gae9588fec12073de39ab475e4649a5c39", null ],
+    [ "BT_AVRCP_PDU_ID_GET_CAPABILITY", "group__bt__avrcp.html#ga30b0b87434017f3a59b41a78a8bc625c", null ],
+    [ "BT_AVRCP_PLAYER_APP_ATTR_ID_EQUALIZER", "group__bt__avrcp.html#ga6fe389bf95d66002221b3a098cb55362", null ],
+    [ "BT_AVRCP_RESPONSE_TYPE_NOT_IMPLEMENTED", "group__bt__avrcp.html#ga6ce81cefc737d7dee2ded82b91f466b8", null ],
+    [ "BT_AVRCP_SCOPE_MEDIA_PLAYER_LIST", "group__bt__avrcp.html#ga12945c05efcada82632308156faae039", null ],
+    [ "BT_AVRCP_SUBUNIT_TYPE_UNIT", "group__bt__avrcp.html#ga80108a18d6a4e1e1263f3a5665913cfd", null ],
+    [ "BT_AVRCP_SYSTEM_STATUS_POWER_ON", "group__bt__avrcp.html#gaad393eebe956c8652ca56e7ecd5a1704", null ],
+    [ "BT_AVRCP_VOLUME_MAXIMUM", "group__bt__avrcp.html#ga78d1168cbd705fce941545ee121c71da", null ],
+    [ "bt_avrcp_control_connect", "group__bt__avrcp.html#ga67b8667b6e7b4a32d73ff5e74d4bd852", null ],
+    [ "bt_avrcp_control_disconnect", "group__bt__avrcp.html#ga8c2bd888654b998b773cd64d83ba5a55", null ],
+    [ "bt_avrcp_register_callback", "group__bt__avrcp.html#ga611911d00f0143745077ae474f3a41c9", null ]
+];

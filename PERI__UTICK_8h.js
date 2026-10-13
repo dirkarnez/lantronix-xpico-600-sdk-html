@@ -1,0 +1,23 @@
+var PERI__UTICK_8h =
+[
+    [ "PERI_UTICK_H_", "PERI__UTICK_8h.html#a8ae219ee169755cb4a6bfb0a6fc282f2", null ],
+    [ "UTICK_CAP_CAP_VALUE", "group__UTICK__Register__Masks.html#gabcf6749a8a028bae2e057529c69e0d8e", null ],
+    [ "UTICK_CAP_COUNT", "group__UTICK__Peripheral__Access__Layer.html#gae4b51994a939b65a11c3bfc073391c19", null ],
+    [ "UTICK_CAP_VALID", "group__UTICK__Register__Masks.html#ga832c05adba94a26846e29fedc4b22bb5", null ],
+    [ "UTICK_CAPCLR_CAPCLR0", "group__UTICK__Register__Masks.html#ga81a108df56a75dc90d8576ff5adaca4a", null ],
+    [ "UTICK_CAPCLR_CAPCLR1", "group__UTICK__Register__Masks.html#gab70e37a1da977afd3f8670c2ea842e89", null ],
+    [ "UTICK_CAPCLR_CAPCLR2", "group__UTICK__Register__Masks.html#ga636625ea7172f2656d3c2cf9bcd60a84", null ],
+    [ "UTICK_CAPCLR_CAPCLR3", "group__UTICK__Register__Masks.html#ga1374ef9284f18c7a2e73caa1d6817dd0", null ],
+    [ "UTICK_CFG_CAPEN0", "group__UTICK__Register__Masks.html#ga412884dbcb343a0f100406cfe289a6c0", null ],
+    [ "UTICK_CFG_CAPEN1", "group__UTICK__Register__Masks.html#ga23e28fe7c4036976ad34d226e4b902af", null ],
+    [ "UTICK_CFG_CAPEN2", "group__UTICK__Register__Masks.html#gad8c936d67fe84fa1cdcab6eeabe01513", null ],
+    [ "UTICK_CFG_CAPEN3", "group__UTICK__Register__Masks.html#ga123b2035d005b33ec8a40a45ed252701", null ],
+    [ "UTICK_CFG_CAPPOL0", "group__UTICK__Register__Masks.html#ga3687b41fe4d8f7fad49e0a51e3b6ad55", null ],
+    [ "UTICK_CFG_CAPPOL1", "group__UTICK__Register__Masks.html#ga2f1d0921c524b907b87e5d5201b6a7ce", null ],
+    [ "UTICK_CFG_CAPPOL2", "group__UTICK__Register__Masks.html#ga9187f6e2d53315b7281c6d41dbd76bae", null ],
+    [ "UTICK_CFG_CAPPOL3", "group__UTICK__Register__Masks.html#ga0fb13e5378fdda0ad07af9a1dc53214a", null ],
+    [ "UTICK_CTRL_DELAYVAL", "group__UTICK__Register__Masks.html#ga6834f5c50f8cad49c6fd166032454687", null ],
+    [ "UTICK_CTRL_REPEAT", "group__UTICK__Register__Masks.html#ga701070f53b4ab40ac39095b88d07df07", null ],
+    [ "UTICK_STAT_ACTIVE", "group__UTICK__Register__Masks.html#ga00c225639be4f35f8a7f47b7431b0427", null ],
+    [ "UTICK_STAT_INTR", "group__UTICK__Register__Masks.html#ga62a7b26f063030fe8ba04f8d8b9519ef", null ]
+];

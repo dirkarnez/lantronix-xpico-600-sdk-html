@@ -1,0 +1,15 @@
+var group__MRT__Peripheral__Access__Layer =
+[
+    [ "MRT Register Masks", "group__MRT__Register__Masks.html", "group__MRT__Register__Masks" ],
+    [ "MRT_Type", "structMRT__Type.html", [
+      [ "CTRL", "structMRT__Type.html#aa13f886b566ddbd074b27c075a7ac477", null ],
+      [ "ID_CODE", "structMRT__Type.html#a578e563a0bec43f50a25db945985f9cc", null ],
+      [ "IDLE_CH", "structMRT__Type.html#a6c73b2e9120cfad9bac50c97e1ffd41e", null ],
+      [ "INTVAL", "structMRT__Type.html#a3d8f23f5347dee55014dec1da48fd2f9", null ],
+      [ "IRQ_FLAG", "structMRT__Type.html#a32fb936071ceb3f4483f4975908696be", null ],
+      [ "MODCFG", "structMRT__Type.html#a330a62fff643789279685f6fd6e2ed58", null ],
+      [ "STAT", "structMRT__Type.html#a096e4432ec5c03ac7d76c06c7bb93151", null ],
+      [ "TIMER", "structMRT__Type.html#ae8e37eb4ef65817d56ad873342f19a02", null ]
+    ] ],
+    [ "MRT_CHANNEL_COUNT", "group__MRT__Peripheral__Access__Layer.html#gafade640826e0641732890431773f0a17", null ]
+];

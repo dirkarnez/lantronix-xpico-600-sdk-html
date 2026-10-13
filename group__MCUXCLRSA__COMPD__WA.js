@@ -1,0 +1,4 @@
+var group__MCUXCLRSA__COMPD__WA =
+[
+    [ "MCUXCLRSA_INTERNAL_COMPUTED_WAPKC_SIZE", "group__MCUXCLRSA__COMPD__WA.html#gad14fb0288d18862b46b2b5ef0b4120a6", null ]
+];

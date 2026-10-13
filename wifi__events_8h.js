@@ -1,0 +1,76 @@
+var wifi__events_8h =
+[
+    [ "wifi_event", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22", [
+      [ "WIFI_EVENT_UAP_STARTED", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22aabfb6869cb6e76a3736f86bca61abcbd", null ],
+      [ "WIFI_EVENT_UAP_CLIENT_ASSOC", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a46753da22f78f2092394e9d4bdb71023", null ],
+      [ "WIFI_EVENT_UAP_CLIENT_CONN", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ae0c75989a0c96d9c7a7d3430341470e9", null ],
+      [ "WIFI_EVENT_UAP_CLIENT_DEAUTH", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a5334c021ef8fa5cf0e1a60147b9f4ee1", null ],
+      [ "WIFI_EVENT_UAP_NET_ADDR_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a451e64502e93df1940d1ea0541fd15da", null ],
+      [ "WIFI_EVENT_UAP_STOPPED", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a3769464e89e99945e94ad9c13b2d02c8", null ],
+      [ "WIFI_EVENT_UAP_TX_DATA_PAUSE", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ad3bdd9195f7e89c16046ca95c08cefaa", null ],
+      [ "WIFI_EVENT_UAP_LAST", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a8f51959ec304a9479cac4e5e09fa9a94", null ],
+      [ "WIFI_EVENT_SCAN_START", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a5f8b63cb54da37f5c2af80b97b5c0c33", null ],
+      [ "WIFI_EVENT_SCAN_RESULT", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22acd958214139296c80f1bcc7ecc78521a", null ],
+      [ "WIFI_EVENT_SURVEY_RESULT_GET", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a62a8b01972ee94a2801b5f346dc0b052", null ],
+      [ "WIFI_EVENT_GET_HW_SPEC", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a1165ffb2c9f72b7f2fc73d1cf1afc486", null ],
+      [ "WIFI_EVENT_ASSOCIATION", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a21e69be6a4e433ad5811cafedf8e57be", null ],
+      [ "WIFI_EVENT_PMK", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a8db83812e80a76e3e5e779653dec0dce", null ],
+      [ "WIFI_EVENT_AUTHENTICATION", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22aa909e4dca3f53d9514ada9f5ed5d086c", null ],
+      [ "WIFI_EVENT_DISASSOCIATION", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a5d3816b48ebb3dcf6a26751e7a258fe9", null ],
+      [ "WIFI_EVENT_DEAUTHENTICATION", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a792b8003e57f16f0d4fdeb62141cea7e", null ],
+      [ "WIFI_EVENT_LINK_LOSS", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a7fded0f9022febc4ce43d4cbdd4c3dc4", null ],
+      [ "WIFI_EVENT_FW_HANG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a6fbccd11a565577241ade0d98ce40010", null ],
+      [ "WIFI_EVENT_FW_RESET", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22acf1e7be669c1134b3fd6b021593d53f7", null ],
+      [ "WIFI_EVENT_NET_STA_ADDR_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a023bfc922d2b68be0d6f52c277072680", null ],
+      [ "WIFI_EVENT_NET_INTERFACE_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ae4bc4279d998a9b6fd4f3d74c92fa795", null ],
+      [ "WIFI_EVENT_WEP_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a94c74c77b559cf715f970023ff62e48a", null ],
+      [ "WIFI_EVENT_STA_MAC_ADDR_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a9874e1209daf3ed405cbc2706619caab", null ],
+      [ "WIFI_EVENT_UAP_MAC_ADDR_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a397e49568e0a4e387a78092405e3f765", null ],
+      [ "WIFI_EVENT_WFD_MAC_ADDR_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ab92e8b7f43a596b664cc4857fdf468e8", null ],
+      [ "WIFI_EVENT_NET_DHCP_CONFIG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a8dedb9d9fb8adb0dffc91d765ba49dbe", null ],
+      [ "WIFI_EVENT_SUPPLICANT_PMK", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a6ba9959d6c35a93019a6951a295e509c", null ],
+      [ "WIFI_EVENT_SLEEP", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a1cafc26db1ca54744b75f0f4d8fca709", null ],
+      [ "WIFI_EVENT_IEEE_PS", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22aba57b0fb8faba291a06f0761c5c7a462", null ],
+      [ "WIFI_EVENT_DEEP_SLEEP", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ab263d288eca26d687efcff603a713617", null ],
+      [ "WIFI_EVENT_WNM_PS", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22af205a949d998e0dbf7ff7643dc040af0", null ],
+      [ "WIFI_EVENT_IEEE_DEEP_SLEEP", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a1289ecc9d85bbe53a6883204fa54e0cc", null ],
+      [ "WIFI_EVENT_WNM_DEEP_SLEEP", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ae735ae377ddcc96e7df86c015d388082", null ],
+      [ "WIFI_EVENT_PS_INVALID", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ae858fbd30c4a61f2cfd7f3969aa7460e", null ],
+      [ "WIFI_EVENT_ERR_MULTICAST", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ac31af9f9c6a340813f70e42085fdf755", null ],
+      [ "WIFI_EVENT_ERR_UNICAST", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ab37c2a011f3f853eca76342f1dc859ed", null ],
+      [ "WIFI_EVENT_NLIST_REPORT", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a80c4113f14cbc923b35cf0c0105795a1", null ],
+      [ "WIFI_EVENT_11N_SEND_ADDBA", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ac9c270e6b95b8c5d45b3429efb420749", null ],
+      [ "WIFI_EVENT_11N_RECV_ADDBA", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22ab7d29d684cfe7eab44b36b73e9233b5a", null ],
+      [ "WIFI_EVENT_11N_BA_STREAM_TIMEOUT", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a0a5f41d69041bc1a573f3ddc85acb824", null ],
+      [ "WIFI_EVENT_11N_DELBA", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a8916c9f9e01f258eeb632808dd8658da", null ],
+      [ "WIFI_EVENT_11N_AGGR_CTRL", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a6113b201a4511632b95adb2c0b1c4d3f", null ],
+      [ "WIFI_EVENT_CHAN_SWITCH_ANN", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a9cabddd655e39d5dbfdf36ff88c0e73c", null ],
+      [ "WIFI_EVENT_CHAN_SWITCH", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a67734c2fbee4f660f294e7d0bab71cb5", null ],
+      [ "WIFI_EVENT_REGION_POWER_CFG", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22a4d09c2ab4da58be5bcc935067f3797d1", null ],
+      [ "WIFI_EVENT_TX_DATA_PAUSE", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22af82c5a8902e358cd11dd6e7a997b2e5e", null ],
+      [ "WIFI_EVENT_LAST", "wifi__events_8h.html#a757855b2984b294a91a7c9fbad27ee22aa5603f665d3b1101f2a9ea0261fe5a93", null ]
+    ] ],
+    [ "wifi_event_reason", "wifi__events_8h.html#aca5d369a65a48ab1b2486f3013ed730c", [
+      [ "WIFI_EVENT_REASON_SUCCESS", "wifi__events_8h.html#aca5d369a65a48ab1b2486f3013ed730cae3bcb23141df7df5142894efc53807ae", null ],
+      [ "WIFI_EVENT_REASON_TIMEOUT", "wifi__events_8h.html#aca5d369a65a48ab1b2486f3013ed730ca0ff8c9ea4a71f73e36f45c9b9c1049af", null ],
+      [ "WIFI_EVENT_REASON_FAILURE", "wifi__events_8h.html#aca5d369a65a48ab1b2486f3013ed730ca9411ef20e7b251ddacae0c303434290b", null ]
+    ] ],
+    [ "wifi_wakeup_event_t", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13", [
+      [ "WIFI_WAKE_ON_ALL_BROADCAST", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13a2b3dfcead4b3e224d2c473f0f94f4497", null ],
+      [ "WIFI_WAKE_ON_UNICAST", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13aef793ba7f5c04b682d52b6c8c2c69678", null ],
+      [ "WIFI_WAKE_ON_MAC_EVENT", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13a5f2a3374762f5ed42b0f9c24a5f7a1a1", null ],
+      [ "WIFI_WAKE_ON_MULTICAST", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13a6c1709cf1c601018448adaeacfc5d38a", null ],
+      [ "WIFI_WAKE_ON_ARP_BROADCAST", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13a3400005fa8e2754d30edef4f4045c4c6", null ],
+      [ "WIFI_WAKE_ON_MGMT_FRAME", "wifi__events_8h.html#a19d7d3bf2012b2f3752c18458bcdef13ade77093b0911fb0bcc76fc9c83fc7a79", null ]
+    ] ],
+    [ "wlan_bss_role", "wifi__events_8h.html#ab73f3c9984914414b2440b0f83fa1f6a", [
+      [ "WLAN_BSS_ROLE_STA", "wifi__events_8h.html#ab73f3c9984914414b2440b0f83fa1f6aabac6cc4eb6f3201946c6ec352580222b", null ],
+      [ "WLAN_BSS_ROLE_UAP", "wifi__events_8h.html#ab73f3c9984914414b2440b0f83fa1f6aa43aa6f462df49b4f0eee43905811241b", null ],
+      [ "WLAN_BSS_ROLE_ANY", "wifi__events_8h.html#ab73f3c9984914414b2440b0f83fa1f6aa4e44adca3b80a654899a1668e58cbfa8", null ]
+    ] ],
+    [ "wlan_bss_type", "wifi__events_8h.html#a24a86ee0c6baf23878922cc62632bdae", [
+      [ "WLAN_BSS_TYPE_STA", "wifi__events_8h.html#a24a86ee0c6baf23878922cc62632bdaea2f2af05da416e4bc9df7c52a3d63bed5", null ],
+      [ "WLAN_BSS_TYPE_UAP", "wifi__events_8h.html#a24a86ee0c6baf23878922cc62632bdaea87a66680ccbe38563db0e5e6e5430730", null ],
+      [ "WLAN_BSS_TYPE_ANY", "wifi__events_8h.html#a24a86ee0c6baf23878922cc62632bdaea927b9efcfb8592f0efbc4571ef15b886", null ]
+    ] ]
+];

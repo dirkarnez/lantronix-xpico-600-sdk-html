@@ -1,0 +1,37 @@
+var group__DMA__Peripheral__Access__Layer =
+[
+    [ "DMA Register Masks", "group__DMA__Register__Masks.html", "group__DMA__Register__Masks" ],
+    [ "DMA_Type", "structDMA__Type.html", [
+      [ "ABORT", "structDMA__Type.html#afd83af11f6e837608158e1c00f8f8f59", null ],
+      [ "ABORT1", "structDMA__Type.html#a0862e71e2656ad0e891de3dc33bea7b4", null ],
+      [ "ACTIVE", "structDMA__Type.html#aa1d9482cd5643ffc1e16cf424f33f02f", null ],
+      [ "ACTIVE1", "structDMA__Type.html#afb19dfb47710cd65269e7bb58d3ccda8", null ],
+      [ "BUSY", "structDMA__Type.html#ab812d95cf41ab6d2a26801b28d9bf9e2", null ],
+      [ "BUSY1", "structDMA__Type.html#ac123a3a2ded970691dbce7537479b4b7", null ],
+      [ "CFG", "structDMA__Type.html#a81ef7a1ad8b2ea39f6e385a27564613b", null ],
+      [ "CTLSTAT", "structDMA__Type.html#a3d4197fd96294c1c5a3a68af7c1b9e15", null ],
+      [ "CTRL", "structDMA__Type.html#af33375da98900922ffe8408116d196a1", null ],
+      [ "ENABLECLR", "structDMA__Type.html#a1d30901600f648973e2c7cd0b19cbbd6", null ],
+      [ "ENABLECLR1", "structDMA__Type.html#a2a2ce04a0330b6eff1e542e205af53d1", null ],
+      [ "ENABLESET", "structDMA__Type.html#acf7ee6c6ac9b124dbe814607d1d2b80f", null ],
+      [ "ENABLESET1", "structDMA__Type.html#a98458a6ae64e7820ba8059b41e6e4b3a", null ],
+      [ "ERRINT", "structDMA__Type.html#a9a252409a95ff43a67dde6d73a8550bd", null ],
+      [ "ERRINT1", "structDMA__Type.html#a6241f77a97156640bdfd1a994b9c1a6d", null ],
+      [ "INTA", "structDMA__Type.html#a7ea25836cbfe347d936159d6db9244a4", null ],
+      [ "INTA1", "structDMA__Type.html#ac1cf43928db1b14c6b8de831c4e6938d", null ],
+      [ "INTB", "structDMA__Type.html#a958afc9fa4b308854a5a54388582f326", null ],
+      [ "INTB1", "structDMA__Type.html#a8005a7c6303f849367a9f5b853985e41", null ],
+      [ "INTENCLR", "structDMA__Type.html#a63c8a59cfbfa3aa214bc2e787c554a25", null ],
+      [ "INTENCLR1", "structDMA__Type.html#ab3f60ef79ad8030147b4471eaa3097dc", null ],
+      [ "INTENSET", "structDMA__Type.html#afb7ca39971bef22196cfe452afafe726", null ],
+      [ "INTENSET1", "structDMA__Type.html#ad8a4d8f6b3037712356795b98df88060", null ],
+      [ "INTSTAT", "structDMA__Type.html#a246abe3bb53ff82e45fe59265cc4337e", null ],
+      [ "SETTRIG", "structDMA__Type.html#a7b1937fc7685b5e13f237e148c5f16a7", null ],
+      [ "SETTRIG1", "structDMA__Type.html#a5398f6f3c42ec4d82c5b5591041dadf4", null ],
+      [ "SETVALID", "structDMA__Type.html#a82b8c36a6c219c3bd017d50aa498fb1e", null ],
+      [ "SETVALID1", "structDMA__Type.html#ad5155759e51fa1db143c9c8d4e5fe72b", null ],
+      [ "SRAMBASE", "structDMA__Type.html#ad5a0c170e681ec2d3d9ed92e0914dc27", null ],
+      [ "XFERCFG", "structDMA__Type.html#a8691606b3df51931bdae11dabf475605", null ]
+    ] ],
+    [ "DMA_COMMON_COUNT", "group__DMA__Peripheral__Access__Layer.html#ga2a614a36720d3dd23fe847c57a2108d0", null ]
+];

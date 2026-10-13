@@ -1,0 +1,27 @@
+var group__hfp__unit__api__definitions =
+[
+    [ "BT_hfp_unit_callaccept", "group__hfp__unit__api__definitions.html#ga43ae963fd86ebc56ec2db923a6e2f32a", null ],
+    [ "BT_hfp_unit_callhangup", "group__hfp__unit__api__definitions.html#ga9144ef919dcebaeb517da5bcfc62620c", null ],
+    [ "BT_hfp_unit_control_multiparty_call", "group__hfp__unit__api__definitions.html#ga99200ccb82055a818159b50ccfd8cc60", null ],
+    [ "BT_hfp_unit_dial", "group__hfp__unit__api__definitions.html#ga00fffdd24ee631d83fb9f3dceca449ca", null ],
+    [ "BT_hfp_unit_disable_voice_recognition", "group__hfp__unit__api__definitions.html#gac7ca8ed0b55993b518212ea0dc3a3a03", null ],
+    [ "BT_hfp_unit_enable_voice_recognition", "group__hfp__unit__api__definitions.html#ga4360e80949d8f8dea8ef2f1e701090de", null ],
+    [ "BT_hfp_unit_get_peer_indicator_status", "group__hfp__unit__api__definitions.html#gae3ef34c989dd9f0c7af4e218c24436ad", null ],
+    [ "BT_hfp_unit_memdial", "group__hfp__unit__api__definitions.html#ga39a74633dd37ee4f61a0d1617b224522", null ],
+    [ "BT_hfp_unit_redial", "group__hfp__unit__api__definitions.html#ga96c0ff919daea97befb0188c45cd215d", null ],
+    [ "BT_hfp_unit_send_dtmf", "group__hfp__unit__api__definitions.html#gaccb97fd4954ef9cd38963857577e4f04", null ],
+    [ "BT_hfp_unit_send_string", "group__hfp__unit__api__definitions.html#ga5aba3c834cc054da66a53a36ef718fcb", null ],
+    [ "BT_hfp_unit_abort", "group__hfp__unit__api__definitions.html#ga228cab43953024f790febfd47655e107", null ],
+    [ "BT_hfp_unit_connect", "group__hfp__unit__api__definitions.html#ga70187ea9e86f829365a79f1e49aee8e4", null ],
+    [ "BT_hfp_unit_disconnect", "group__hfp__unit__api__definitions.html#ga9113984acb9c9dd08c49464aa3aaac7a", null ],
+    [ "BT_hfp_unit_feature_control", "group__hfp__unit__api__definitions.html#ga7ef7e84beaf6dac0a20f3455a98b032e", null ],
+    [ "BT_hfp_unit_get_peer_chld_values", "group__hfp__unit__api__definitions.html#ga8d16ee7323f58d91d5a9fad47529f8f8", null ],
+    [ "BT_hfp_unit_get_peer_indicator_list", "group__hfp__unit__api__definitions.html#gada9b53b3574bb0b6ddc35cf76106f730", null ],
+    [ "BT_hfp_unit_get_peer_supported_features", "group__hfp__unit__api__definitions.html#gac7dc377e9b3535db5c99726036f238d9", null ],
+    [ "BT_hfp_unit_init", "group__hfp__unit__api__definitions.html#ga4b1609b0aa70bb41ec9199da890c4f8c", null ],
+    [ "BT_hfp_unit_read_peer_indicator_status", "group__hfp__unit__api__definitions.html#gaa730f7b7419fbdd5aab8595c97db35b1", null ],
+    [ "BT_hfp_unit_set_gain", "group__hfp__unit__api__definitions.html#ga9437a8d3687627741c0262ffb8e9f0c2", null ],
+    [ "BT_hfp_unit_start", "group__hfp__unit__api__definitions.html#ga8987d986b54b2575d6fa528fb963da09", null ],
+    [ "BT_hfp_unit_stop", "group__hfp__unit__api__definitions.html#ga064370867a3c73824d9e66109d196ce5", null ],
+    [ "hfp_unit_service_request", "group__hfp__unit__api__definitions.html#ga2f42da79b3c442864bc7b732812d4371", null ]
+];

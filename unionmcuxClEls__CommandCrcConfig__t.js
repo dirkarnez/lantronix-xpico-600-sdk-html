@@ -1,0 +1,8 @@
+var unionmcuxClEls__CommandCrcConfig__t =
+[
+    [ "__pad0__", "unionmcuxClEls__CommandCrcConfig__t.html#a49e0d7b8ada89de5bd766ac9cf2c3e27", null ],
+    [ "bits", "unionmcuxClEls__CommandCrcConfig__t.html#a188e3200a2efa1cf202629e8ce490122", null ],
+    [ "enable", "unionmcuxClEls__CommandCrcConfig__t.html#a60c0c05eb7acf852589b6f5b7a7c9dd3", null ],
+    [ "reset", "unionmcuxClEls__CommandCrcConfig__t.html#ae72c778e615b7e6aa4e73eb242beb354", null ],
+    [ "value", "unionmcuxClEls__CommandCrcConfig__t.html#a4dc44ca29e9ef4bcea0b6469a5966f6d", null ]
+];

@@ -1,0 +1,35 @@
+var group__BUCK11__Peripheral__Access__Layer =
+[
+    [ "BUCK11 Register Masks", "group__BUCK11__Register__Masks.html", "group__BUCK11__Register__Masks" ],
+    [ "BUCK11_Type", "structBUCK11__Type.html", [
+      [ "BUCK_BYPASS_SOC_CTRL_ONE_RO_REG", "structBUCK11__Type.html#af8a9861921bbcea57ce80e916226f854", null ],
+      [ "BUCK_BYPASS_SOC_CTRL_ONE_RW_REG", "structBUCK11__Type.html#a567e8f8ccf06b161cec3c809ce49b43f", null ],
+      [ "BUCK_BYPASS_SOC_CTRL_TWO_RO_REG", "structBUCK11__Type.html#a35a5aa7a6c89025759f976cae3028ec2", null ],
+      [ "BUCK_BYPASS_SOC_CTRL_TWO_RW_REG", "structBUCK11__Type.html#ad07c0daf456c5de1d5207c629c059b4b", null ],
+      [ "BUCK_CTRL_EIGHT_REG", "structBUCK11__Type.html#a128c4dbee337f2ef7ca192d8871ad24a", null ],
+      [ "BUCK_CTRL_EIGHTEEN_REG", "structBUCK11__Type.html#aeb7ee29278d70ed4602f842cfe992b13", null ],
+      [ "BUCK_CTRL_ELEVEN_REG", "structBUCK11__Type.html#a89a01113f155ff52a06eb5aee170e402", null ],
+      [ "BUCK_CTRL_FIFTEEN_REG", "structBUCK11__Type.html#a1b707b0909870b46c10b8403d2850a2b", null ],
+      [ "BUCK_CTRL_FIVE_REG", "structBUCK11__Type.html#a1304e058e058382007f0cc11d751d067", null ],
+      [ "BUCK_CTRL_FOUR_REG", "structBUCK11__Type.html#ae97132b3332f0574816f43328b778847", null ],
+      [ "BUCK_CTRL_FOURTEEN_REG", "structBUCK11__Type.html#a3b65c914419fef642511e46da7d21e0d", null ],
+      [ "BUCK_CTRL_NINE_REG", "structBUCK11__Type.html#afd51e9e03c8e3fbddf8a5847ab3efa13", null ],
+      [ "BUCK_CTRL_NINTEEN_REG", "structBUCK11__Type.html#a4761bf0ca494da234772b48adddf19d5", null ],
+      [ "BUCK_CTRL_ONE_REG", "structBUCK11__Type.html#aa1f18a87031bc90a9e5363b9c18aff7b", null ],
+      [ "BUCK_CTRL_SEVEN_REG", "structBUCK11__Type.html#a9ef0dcca9be45675a7c162fa26c24e11", null ],
+      [ "BUCK_CTRL_SEVENTEEN_REG", "structBUCK11__Type.html#ab38ab325857f989bd1b601dc30046767", null ],
+      [ "BUCK_CTRL_SIX_REG", "structBUCK11__Type.html#a014326e3fa8cf341fb625369214bd629", null ],
+      [ "BUCK_CTRL_SIXTEEN_REG", "structBUCK11__Type.html#aac1c826b41ad6386f2fb5fbd1f3fb561", null ],
+      [ "BUCK_CTRL_TEN_REG", "structBUCK11__Type.html#a383ab061411fd63a245542f5a43eb8fc", null ],
+      [ "BUCK_CTRL_THIRTEEN_REG", "structBUCK11__Type.html#a6627e8e0ce157c88177146c3d2fb763d", null ],
+      [ "BUCK_CTRL_THREE_REG", "structBUCK11__Type.html#a3cb27251160157cb051f4ea740a0b95a", null ],
+      [ "BUCK_CTRL_TWELVE_REG", "structBUCK11__Type.html#a024f4dab0100c7d83978664bd5add380", null ],
+      [ "BUCK_CTRL_TWENTY_REG", "structBUCK11__Type.html#a4a35074d8eeaad2a6f842ca631567331", null ],
+      [ "BUCK_CTRL_TWO_REG", "structBUCK11__Type.html#a58a150e0910d2c9c9e6cbdbb717de974", null ],
+      [ "REG_RO_FOUR_REG", "structBUCK11__Type.html#aa6767d6d3fd8ce29dbb82cc3bf30a47f", null ],
+      [ "REG_RO_ONE_REG", "structBUCK11__Type.html#aacc6781ab2575f1f4d826e91f0c4cb23", null ],
+      [ "REG_RO_THREE_REG", "structBUCK11__Type.html#a2aeda4f0b33b4aa8b67c4d5425760db2", null ],
+      [ "REG_RO_TWO_REG", "structBUCK11__Type.html#a9ce654e5fdc78c2e3a7f0076c832292e", null ],
+      [ "SYS_CTRL_REG", "structBUCK11__Type.html#a2b9f5879d3e3d26f1ea2bf1d1ea9667a", null ]
+    ] ]
+];

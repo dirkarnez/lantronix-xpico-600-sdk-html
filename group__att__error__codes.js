@@ -1,0 +1,25 @@
+var group__att__error__codes =
+[
+    [ "ATT_ATTRIBUTE_NOT_FOUND", "group__att__error__codes.html#gaca67492ad36d9ccc2ba1165825482225", null ],
+    [ "ATT_ATTRIBUTE_NOT_LONG", "group__att__error__codes.html#ga72a53d514dec1ddb4248283502fb5ef3", null ],
+    [ "ATT_CCD_IMPROPERLY_CONFIGURED", "group__att__error__codes.html#gae59859d57dab6eba69c4cf597903db23", null ],
+    [ "ATT_DB_OUT_OF_SYNC", "group__att__error__codes.html#gaf4022479d4907d2193e1033c8e24634a", null ],
+    [ "ATT_INSUFFICIENT_AUTHENTICATION", "group__att__error__codes.html#gaba2d9765d6336820d1d3412aa30841d8", null ],
+    [ "ATT_INSUFFICIENT_AUTHORIZATION", "group__att__error__codes.html#ga8ec8de88e7fe00a8b994612445349a4f", null ],
+    [ "ATT_INSUFFICIENT_ENC_KEY_SIZE", "group__att__error__codes.html#ga86c5664889927eaea5212395cac76e6f", null ],
+    [ "ATT_INSUFFICIENT_ENCRYPTION", "group__att__error__codes.html#ga6f1c140ca1f2679c3dd2a7246eaa04b6", null ],
+    [ "ATT_INSUFFICIENT_RESOURCES", "group__att__error__codes.html#ga4b67b47e482a56970b7b6921eae73f05", null ],
+    [ "ATT_INVALID_ATTRIBUTE_LEN", "group__att__error__codes.html#ga3f3ce6e2b9d8203f7d05b31f0e50f895", null ],
+    [ "ATT_INVALID_HANDLE", "group__att__error__codes.html#ga82b360cf78ba6bfc71b163719818b41b", null ],
+    [ "ATT_INVALID_OFFSET", "group__att__error__codes.html#gae27509d864403aa4fc7478c4588c8aff", null ],
+    [ "ATT_INVALID_PDU", "group__att__error__codes.html#ga51e911dde21e8d91aec72566b3901762", null ],
+    [ "ATT_OUT_OF_RANGE", "group__att__error__codes.html#ga4c7e9ec2b203d0b4a85e38143034f4b2", null ],
+    [ "ATT_PARAM_VAL_NOT_ALLOWED", "group__att__error__codes.html#ga16e01a48ee5d6a6fe49be33cb291cd8e", null ],
+    [ "ATT_PREPARE_WRITE_QUEUE_FULL", "group__att__error__codes.html#ga43814405005dffaad1f6cdb42133f079", null ],
+    [ "ATT_PROCEDURE_ALREADY_IN_PROGRESS", "group__att__error__codes.html#ga40842e2560a96992d8e47df3aa684ee7", null ],
+    [ "ATT_READ_NOT_PERMITTED", "group__att__error__codes.html#gaff2f94524063da867527b01e1a021340", null ],
+    [ "ATT_REQUEST_NOT_SUPPORTED", "group__att__error__codes.html#gac979364b9e1c1ce308894646c20efa16", null ],
+    [ "ATT_UNLIKELY_ERROR", "group__att__error__codes.html#ga56aeaa13702b45510bac1a930ef1c508", null ],
+    [ "ATT_UNSUPPORTED_GROUP_TYPE", "group__att__error__codes.html#ga49dd84ee4472cee84c7dd80e6ea50d3f", null ],
+    [ "ATT_WRITE_NOT_PERMITTED", "group__att__error__codes.html#ga89eed691a611918fa3ab02c267bb59bf", null ]
+];

@@ -1,0 +1,25 @@
+var group__SYSPLL__TDDR__Register__Masks =
+[
+    [ "SYSPLL_TDDR_ATEST_CTRL_REG_REG_ATEST_CTRL", "group__SYSPLL__TDDR__Register__Masks.html#gaf3859a94235b2b4dd6cdccec7e4ad572", null ],
+    [ "SYSPLL_TDDR_CLKTREE_CTRL_ONE_REG_REG_CLKTREE_CTRL_ONE", "group__SYSPLL__TDDR__Register__Masks.html#ga5199796e2ba00de2ebc4631afc2c8f25", null ],
+    [ "SYSPLL_TDDR_CLKTREE_CTRL_TWO_REG_REG_CLKTREE_CTRL_TWO", "group__SYSPLL__TDDR__Register__Masks.html#gad5ebc33f78481df6a40b6091c4371335", null ],
+    [ "SYSPLL_TDDR_GPIO_CTRL_REG_REG_GPIO_CTRL", "group__SYSPLL__TDDR__Register__Masks.html#ga98756e9ce71ce556373ccc6047172796", null ],
+    [ "SYSPLL_TDDR_REG_RO_REG_REG_RO", "group__SYSPLL__TDDR__Register__Masks.html#ga3f6c7e3f9d6fa060edbcbc31bbc05828", null ],
+    [ "SYSPLL_TDDR_RESERVED_HI_REG_REG_RESERVED_HI", "group__SYSPLL__TDDR__Register__Masks.html#gadd375ca837555b2e61c0957eecfc59ea", null ],
+    [ "SYSPLL_TDDR_RESERVED_LO_REG_REG_RESERVED_LO", "group__SYSPLL__TDDR__Register__Masks.html#ga55c327b0c6c6e706352e1f00ac4e98b7", null ],
+    [ "SYSPLL_TDDR_SYS_CTRL_REG_REG_SYS_CTRL", "group__SYSPLL__TDDR__Register__Masks.html#ga0affdbad88f444e03afaa57879415fd0", null ],
+    [ "SYSPLL_TDDR_SYSBYPASS_SOC_CTRL_ONE_RO_REG_SYSBYPASS_SOC_CTRL_ONE_RO", "group__SYSPLL__TDDR__Register__Masks.html#gad8ce8e6ae507696e539021ba60845ba3", null ],
+    [ "SYSPLL_TDDR_SYSBYPASS_SOC_CTRL_ONE_RW_REG_REG_SYSBYPASS_SOC_CTRL_ONE_RW", "group__SYSPLL__TDDR__Register__Masks.html#gaa79993c268c1bb16893e7426db869942", null ],
+    [ "SYSPLL_TDDR_SYSBYPASS_SOC_CTRL_THREE_RO_REG_SYSBYPASS_SOC_CTRL_THREE_RO", "group__SYSPLL__TDDR__Register__Masks.html#ga62dce3abdfc4e680459ad82edd9205c0", null ],
+    [ "SYSPLL_TDDR_SYSBYPASS_SOC_CTRL_THREE_RW_REG_REG_SYSBYPASS_SOC_CTRL_THREE_RW", "group__SYSPLL__TDDR__Register__Masks.html#gab5bd16849ea6c129221dbea49bb32701", null ],
+    [ "SYSPLL_TDDR_SYSBYPASS_SOC_CTRL_TWO_RO_REG_SYSBYPASS_SOC_CTRL_TWO_RO", "group__SYSPLL__TDDR__Register__Masks.html#gafec0560145b7c1481a34b6e297d91841", null ],
+    [ "SYSPLL_TDDR_SYSBYPASS_SOC_CTRL_TWO_RW_REG_REG_SYSBYPASS_SOC_CTRL_TWO_RW", "group__SYSPLL__TDDR__Register__Masks.html#ga5dd2b1d3df71d09303cdc2303a7a3712", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_FIVE_REG_REG_TDDR_CTRL_FIVE", "group__SYSPLL__TDDR__Register__Masks.html#ga45b7ecc4521202762b223b0ebbd48d7c", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_FOUR_REG_REG_TDDR_CTRL_FOUR", "group__SYSPLL__TDDR__Register__Masks.html#gab02a90300a9884f7a7317ada13d3ae1b", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_ONE_REG_REG_TDDR_CTRL_ONE", "group__SYSPLL__TDDR__Register__Masks.html#ga61f8292bc973bedae9ce8855211cd0dd", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_ONE_REG_RSVD0", "group__SYSPLL__TDDR__Register__Masks.html#gaad75522788963f718cdaa6614fb66e09", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_ONE_REG_RSVD1", "group__SYSPLL__TDDR__Register__Masks.html#gaba601aff26c2c1221adf3b6af5940397", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_SIX_REG_REG_TDDR_CTRL_SIX", "group__SYSPLL__TDDR__Register__Masks.html#gad926a203be2bf99dfe0296a84b7e8222", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_THREE_REG_REG_TDDR_CTRL_THREE", "group__SYSPLL__TDDR__Register__Masks.html#gaed824200fda9f24f2e55525d5e8a0e70", null ],
+    [ "SYSPLL_TDDR_TDDR_CTRL_TWO_REG_REG_TDDR_CTRL_TWO", "group__SYSPLL__TDDR__Register__Masks.html#ga1160309565099668f0e3d26434d2d137", null ]
+];

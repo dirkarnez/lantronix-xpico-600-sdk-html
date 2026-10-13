@@ -1,0 +1,5 @@
+var group__MCUXCLELS__ERROR__FLAGS__ =
+[
+    [ "MCUXCLELS_ERROR_FLAGS_CLEAR", "group__MCUXCLELS__ERROR__FLAGS__.html#ga3528b1fa2b3c39524898299a3a90a753", null ],
+    [ "MCUXCLELS_ERROR_FLAGS_KEEP", "group__MCUXCLELS__ERROR__FLAGS__.html#gab2b0ee14cae59a5f5f4f2563d7189854", null ]
+];

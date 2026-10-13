@@ -1,0 +1,25 @@
+var OtaSupport_8c =
+[
+    [ "OTA_CancelImage", "group__OTA__support.html#ga98c85dbe0aa29f50ece739af16988507", null ],
+    [ "OTA_CommitImage", "group__OTA__support.html#gab68fb26cbbb530451da3a10fc19574a2", null ],
+    [ "OTA_CrcCompute", "group__OTA__support.html#ga6514aa83728b8b9d680308fe445f0b2e", null ],
+    [ "OTA_EraseStorageMemory", "group__OTA__support.html#ga89cf7053c8361015eda6347cec6e8128", null ],
+    [ "OTA_GetDefaultConfig", "group__OTA__support.html#ga80b574e99117381487b67bda7d093c64", null ],
+    [ "OTA_GetImgState", "group__OTA__support.html#ga4d365c4769d160f4cb53ae0f6d23e88e", null ],
+    [ "OTA_GetSelectedFlashAvailableSpace", "group__OTA__support.html#ga11914a88690ef1be2cbc763c7870447d", null ],
+    [ "OTA_Initialize", "group__OTA__support.html#ga49a80f01c9c5653e0c178796b91eb0d8", null ],
+    [ "OTA_IsTransactionPending", "group__OTA__support.html#ga23852e9b2899535cca658ce688063dda", null ],
+    [ "OTA_MakeHeadRoomForNextBlock", "group__OTA__support.html#ga8f6f0dc1b4867a79fe81dc6d5889bdcf", null ],
+    [ "OTA_PullImageChunk", "group__OTA__support.html#ga8bc8b8df8d9ee3fc5b3070cf76bb904f", null ],
+    [ "OTA_PushImageChunk", "group__OTA__support.html#ga0b256df2fd2d6b7379e2f7abe930e090", null ],
+    [ "OTA_ReadStorageMemory", "group__OTA__support.html#gac35ad64cf42ee46a401d098dd7ec0c9c", null ],
+    [ "OTA_ServiceDeInit", "group__OTA__support.html#ga7c74483ff4bbf144794c1ce99a92c590", null ],
+    [ "OTA_ServiceInit", "group__OTA__support.html#ga58d26c89f3fecec80de237c504b42124", null ],
+    [ "OTA_SetConfig", "group__OTA__support.html#ga9ce37053d441ce37f232eaeefa055d8d", null ],
+    [ "OTA_SetNewImageFlag", "group__OTA__support.html#ga47e52b9e39e2b3ad4a5eb6d3e065addc", null ],
+    [ "OTA_SetNewImageFlagWithOffset", "group__OTA__support.html#gafb7da0c86a74cb6cc05d5bfa4e761fe3", null ],
+    [ "OTA_StartImage", "group__OTA__support.html#ga502663a4526778c3773533c2e90ced1f", null ],
+    [ "OTA_TransactionResume", "group__OTA__support.html#gab0d94e8f2a809201b9452432e56b35a7", null ],
+    [ "OTA_UpdateImgState", "group__OTA__support.html#ga0d5698671bad118c626e1cb3c730598d", null ],
+    [ "OTA_WriteStorageMemory", "group__OTA__support.html#ga89f21a0dc509bf5ab2b0e84b12036689", null ]
+];

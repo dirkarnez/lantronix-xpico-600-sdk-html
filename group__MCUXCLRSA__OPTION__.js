@@ -1,0 +1,6 @@
+var group__MCUXCLRSA__OPTION__ =
+[
+    [ "MCUXCLRSA_OPTION_MESSAGE_DIGEST", "group__MCUXCLRSA__OPTION__.html#gaae780b6c51aa31e7e9f20cb2afddf9c6", null ],
+    [ "MCUXCLRSA_OPTION_MESSAGE_MASK", "group__MCUXCLRSA__OPTION__.html#gac091ddc4844c510873c4492061ce7a5f", null ],
+    [ "MCUXCLRSA_OPTION_MESSAGE_PLAIN", "group__MCUXCLRSA__OPTION__.html#ga60de22c98680641aaef3331fbd5bb0f1", null ]
+];

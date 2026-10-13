@@ -1,0 +1,26 @@
+var group__gatt__db__operations =
+[
+    [ "GATT_DB_CHAR_CLI_CNFG_READ_REQ", "group__gatt__db__operations.html#ga232f7269ba107705d9f7aa6b343b933b", null ],
+    [ "GATT_DB_CHAR_CLI_CNFG_WRITE_REQ", "group__gatt__db__operations.html#gaa3a06a0da29e430c86e2da302b51ca05", null ],
+    [ "GATT_DB_CHAR_PEER_CLI_CNFG_READ_REQ", "group__gatt__db__operations.html#ga35822abeb540ee3ec4a7190a8734ca80", null ],
+    [ "GATT_DB_CHAR_PEER_CLI_CNFG_WRITE_REQ", "group__gatt__db__operations.html#ga8c61be1efafefb352284b2ea8db82e4f", null ],
+    [ "GATT_DB_CHAR_PEER_EXECUTE_WRITE_REQ", "group__gatt__db__operations.html#gad38ffa07a6de2ea6cd8e27516581e1c1", null ],
+    [ "GATT_DB_CHAR_PEER_HLD_DESC_READ_REQ", "group__gatt__db__operations.html#gaf6d10ad08b509bebd302fee5e21a117d", null ],
+    [ "GATT_DB_CHAR_PEER_HLD_DESC_WRITE_REQ", "group__gatt__db__operations.html#ga24786fd51a6a34056c1892510745a4e7", null ],
+    [ "GATT_DB_CHAR_PEER_PREPARE_WRITE_REQ", "group__gatt__db__operations.html#gadd3d618b315c48ce1c9462bc547d01c2", null ],
+    [ "GATT_DB_CHAR_PEER_READ_BLOB_REQ", "group__gatt__db__operations.html#ga0906e12909702312cdf035bce34b60ce", null ],
+    [ "GATT_DB_CHAR_PEER_READ_BY_TYPE_REQ", "group__gatt__db__operations.html#ga413b4fb4132d05939a63d4dd30e5f8b8", null ],
+    [ "GATT_DB_CHAR_PEER_READ_REQ", "group__gatt__db__operations.html#ga8f4a9d96763e93e71cf6ec82119472ff", null ],
+    [ "GATT_DB_CHAR_PEER_SER_CNFG_READ_REQ", "group__gatt__db__operations.html#gadd46bb4778e8145ea714b19a4ea3ed63", null ],
+    [ "GATT_DB_CHAR_PEER_SER_CNFG_WRITE_REQ", "group__gatt__db__operations.html#gabdb4d246829c387acb0c5affa0634e0d", null ],
+    [ "GATT_DB_CHAR_PEER_SIGNED_WRITE_CMD", "group__gatt__db__operations.html#gafaaa2a87fd8ad66d6b586d80311aefae", null ],
+    [ "GATT_DB_CHAR_PEER_USR_DESC_READ_REQ", "group__gatt__db__operations.html#gabbebfc91e1d76a135dce277cd390ae77", null ],
+    [ "GATT_DB_CHAR_PEER_USR_DESC_WRITE_REQ", "group__gatt__db__operations.html#ga6e67516344bcbcc4453464699681ee13", null ],
+    [ "GATT_DB_CHAR_PEER_WRITE_CMD", "group__gatt__db__operations.html#ga52c5b98f6a1d6082a453f028f75778a1", null ],
+    [ "GATT_DB_CHAR_PEER_WRITE_REQ", "group__gatt__db__operations.html#ga081365786366900187518a263e8a5828", null ],
+    [ "GATT_DB_CHAR_SER_CNFG_READ_REQ", "group__gatt__db__operations.html#gaccfd75ae9e8daadc10793f08586f7ba8", null ],
+    [ "GATT_DB_CHAR_SER_CNFG_WRITE_REQ", "group__gatt__db__operations.html#ga857be47c76fad23fc2da8651963b4455", null ],
+    [ "GATT_DB_CHAR_VALUE_READ_REQ", "group__gatt__db__operations.html#ga4e0f77bfd9f7a4fbb996494021037f7b", null ],
+    [ "GATT_DB_CHAR_VALUE_WRITE_REQ", "group__gatt__db__operations.html#ga70a1a0dd2570e4813699fe756406ce4b", null ],
+    [ "GATT_DB_CHAR_VALUE_WRITE_WITHOUT_REQ", "group__gatt__db__operations.html#gaaf4401a40b0dce9def3fb1fa4544e315", null ]
+];

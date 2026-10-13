@@ -1,0 +1,152 @@
+var group__sctimer =
+[
+    [ "fsl_sctimer.h", "fsl__sctimer_8h.html", null ],
+    [ "_sctimer_config", "struct__sctimer__config.html", [
+      [ "clockMode", "struct__sctimer__config.html#a6abc3d67168b83789bbc8a149083b958", null ],
+      [ "clockSelect", "struct__sctimer__config.html#a55769c603730244445d66f71f97d4a8a", null ],
+      [ "enableBidirection_h", "struct__sctimer__config.html#a177cdb9ce1bd4d7e5461b1f06617417c", null ],
+      [ "enableBidirection_l", "struct__sctimer__config.html#a909a6ca86003f5fa56f1ddadf64542cd", null ],
+      [ "enableCounterUnify", "struct__sctimer__config.html#a2aa71d49eacac7256011d41e41669976", null ],
+      [ "inputsync", "struct__sctimer__config.html#ab904156ee8f147a46c91430fb3c756ba", null ],
+      [ "outInitState", "struct__sctimer__config.html#a400ce1657acc3dbd5c3e538778a00a3f", null ],
+      [ "prescale_h", "struct__sctimer__config.html#a0079f6fa438e2051a944bc4d31392803", null ],
+      [ "prescale_l", "struct__sctimer__config.html#aee959e2fb6a37402fffc6fe5416c5fbe", null ]
+    ] ],
+    [ "_sctimer_pwm_signal_param", "struct__sctimer__pwm__signal__param.html", [
+      [ "dutyCyclePercent", "struct__sctimer__pwm__signal__param.html#ac7cfd001a61e5511887e213f004bc37f", null ],
+      [ "level", "struct__sctimer__pwm__signal__param.html#a0b93bd5ce6890395abc6cca7b8c192e9", null ],
+      [ "output", "struct__sctimer__pwm__signal__param.html#a1547afe5bfce5a9e4aa369825317aa19", null ]
+    ] ],
+    [ "FSL_SCTIMER_DRIVER_VERSION", "group__sctimer.html#ga3d7deebbb8cb3899c51bbef999113fdf", null ],
+    [ "sctimer_clock_mode_t", "group__sctimer.html#gae14a86d0f09e96b5fda2b8a8c135a892", null ],
+    [ "sctimer_clock_select_t", "group__sctimer.html#ga331170dd649cf400787d670c983a8767", null ],
+    [ "sctimer_config_t", "group__sctimer.html#gaef13ac6a5071e97e96f88b146e201323", null ],
+    [ "sctimer_conflict_resolution_t", "group__sctimer.html#ga3cbad34febb7a295a7a0894709f2a353", null ],
+    [ "sctimer_counter_t", "group__sctimer.html#ga8572dd60b5cbb470277ace358bd34e3c", null ],
+    [ "sctimer_event_active_direction_t", "group__sctimer.html#gabc7fe6e7409da4d31b8943735297b4f0", null ],
+    [ "sctimer_event_callback_t", "group__sctimer.html#ga3809ed933035183b16d317051f5a732c", null ],
+    [ "sctimer_event_t", "group__sctimer.html#ga677ea76e20c389c49058be3d955261fe", null ],
+    [ "sctimer_input_t", "group__sctimer.html#ga047fd27160138ccc8dbc1f3c1f53ad47", null ],
+    [ "sctimer_interrupt_enable_t", "group__sctimer.html#gac31aa94790e9fdc34ae54496cc37777f", null ],
+    [ "sctimer_out_t", "group__sctimer.html#ga8282aeb53886e721b01d071f92fd106b", null ],
+    [ "sctimer_pwm_level_select_t", "group__sctimer.html#ga89f11e19df3784b2668626769b549e0e", null ],
+    [ "sctimer_pwm_mode_t", "group__sctimer.html#ga21eef6a6be0a698a72d2803d23ff29af", null ],
+    [ "sctimer_pwm_signal_param_t", "group__sctimer.html#ga419cbb0f5f783d3525c4772a16a85a1f", null ],
+    [ "sctimer_status_flags_t", "group__sctimer.html#ga1396069d5e692a0dc11fd8a29fd5c824", null ],
+    [ "_sctimer_clock_mode", "group__sctimer.html#gaa7656b008d7abd3fe7d499821c349206", [
+      [ "kSCTIMER_System_ClockMode", "group__sctimer.html#ggaa7656b008d7abd3fe7d499821c349206aa9c40afb4f671696c5122560bd16834b", null ],
+      [ "kSCTIMER_Sampled_ClockMode", "group__sctimer.html#ggaa7656b008d7abd3fe7d499821c349206a182c8930fa55f2c4a7ff7cf27f272ec6", null ],
+      [ "kSCTIMER_Input_ClockMode", "group__sctimer.html#ggaa7656b008d7abd3fe7d499821c349206aaedca7a090600aa41fd7f9e6aa756e8f", null ],
+      [ "kSCTIMER_Asynchronous_ClockMode", "group__sctimer.html#ggaa7656b008d7abd3fe7d499821c349206a3923db642ad5f6b9aa2f9206b69cc9b5", null ]
+    ] ],
+    [ "_sctimer_clock_select", "group__sctimer.html#ga9f75d9d234c684daee69af940c9a03f7", [
+      [ "kSCTIMER_Clock_On_Rise_Input_0", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7aeac5b3a91a6789ebc29e22a63223e562", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_0", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a81bb8457aeaaa05c1de014a1092f3682", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_1", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a14833c030e7be5e1d46d379bee0763e2", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_1", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a37959b0234e735a51a76fc94a6ea2838", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_2", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7acfec39ecd9ed389a70c5af0aadd8d245", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_2", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a65d71ef841bb11fc06c4a84cd35fe354", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_3", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a2d49ffdfaa5c023b81800f9bc7145599", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_3", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7ad95c6b5bf373afdaa115ac4d4b33c907", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_4", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a8d5a9b6b6028b4dcd8c6032bebefa468", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_4", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a90910b145c4b6be6207e787a33edfe90", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_5", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a76459f5f7aeb37929840ac706ccba0c1", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_5", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7aef4bb8b33c1f2cbd38d93f3ae8dcf59d", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_6", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a22397185b3e3a49c3ab6de5f22b55126", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_6", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a1cac2ebda704fdec8b75b9fa9caf460e", null ],
+      [ "kSCTIMER_Clock_On_Rise_Input_7", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a5298152c01e0d4e9def85bbe99ecad83", null ],
+      [ "kSCTIMER_Clock_On_Fall_Input_7", "group__sctimer.html#gga9f75d9d234c684daee69af940c9a03f7a64d321fa474f3c4f7accbbe3fb48ce97", null ]
+    ] ],
+    [ "_sctimer_conflict_resolution", "group__sctimer.html#ga18a2df60984bb10932d643a566a0e87a", [
+      [ "kSCTIMER_ResolveNone", "group__sctimer.html#gga18a2df60984bb10932d643a566a0e87aa7e0f6590af780c201400de534fbded84", null ],
+      [ "kSCTIMER_ResolveSet", "group__sctimer.html#gga18a2df60984bb10932d643a566a0e87aa53aa676af8b05ec58f3d723ea6b85611", null ],
+      [ "kSCTIMER_ResolveClear", "group__sctimer.html#gga18a2df60984bb10932d643a566a0e87aafebc15b93617ff1873bf6bd170fbfe25", null ],
+      [ "kSCTIMER_ResolveToggle", "group__sctimer.html#gga18a2df60984bb10932d643a566a0e87aa66ca25f70e36c4286f63529dc14d19b2", null ]
+    ] ],
+    [ "_sctimer_counter", "group__sctimer.html#gaea40282ea5390d933b7256756eb9e252", [
+      [ "kSCTIMER_Counter_L", "group__sctimer.html#ggaea40282ea5390d933b7256756eb9e252a2c17be417f1566b1c17ab1cdb972baf8", null ],
+      [ "kSCTIMER_Counter_H", "group__sctimer.html#ggaea40282ea5390d933b7256756eb9e252abac8d502657e6390b3669508a7a7d78b", null ],
+      [ "kSCTIMER_Counter_U", "group__sctimer.html#ggaea40282ea5390d933b7256756eb9e252a80cdf46efb087f2a0141a1fce8b2b542", null ]
+    ] ],
+    [ "_sctimer_event", "group__sctimer.html#ga4bed7a9971ba9047d06ff2f9683a40fb", null ],
+    [ "_sctimer_event_active_direction", "group__sctimer.html#ga5f9ecfcd6a54d5591896bc1bc33c1b51", [
+      [ "kSCTIMER_ActiveIndependent", "group__sctimer.html#gga5f9ecfcd6a54d5591896bc1bc33c1b51a1ce9766251a3384d8eb28804fd518034", null ],
+      [ "kSCTIMER_ActiveInCountUp", "group__sctimer.html#gga5f9ecfcd6a54d5591896bc1bc33c1b51a878f4d9e6aa0348da58c4b8807e6eb19", null ],
+      [ "kSCTIMER_ActiveInCountDown", "group__sctimer.html#gga5f9ecfcd6a54d5591896bc1bc33c1b51a6a33db1b011c4dcf63bcc2759dd1c474", null ]
+    ] ],
+    [ "_sctimer_input", "group__sctimer.html#ga8e443cdfdd3db09cbea2dc3a6fe6624e", [
+      [ "kSCTIMER_Input_0", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624eadd689832261eb7eb862ce1c61bc4e96a", null ],
+      [ "kSCTIMER_Input_1", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624ea427af509d16424c3e38e21c0607300d7", null ],
+      [ "kSCTIMER_Input_2", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624ea9091ff1c081ba955c12f63ec235fa41e", null ],
+      [ "kSCTIMER_Input_3", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624eac45f2918497b441dc42cb33c99afdcd1", null ],
+      [ "kSCTIMER_Input_4", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624eab8df54085f974d38e28ff80ea5ad65d0", null ],
+      [ "kSCTIMER_Input_5", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624ea3ec92530953ea9991a65511e64654d50", null ],
+      [ "kSCTIMER_Input_6", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624ea0598dcf5a25edbcc3f89bfc4f453a162", null ],
+      [ "kSCTIMER_Input_7", "group__sctimer.html#gga8e443cdfdd3db09cbea2dc3a6fe6624ea2c1d0356e7346f0d3f1a949dc56b7f10", null ]
+    ] ],
+    [ "_sctimer_interrupt_enable", "group__sctimer.html#ga93aded072082082c595982f272b89e91", [
+      [ "kSCTIMER_Event0InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a7d9204dc6fea5991f442e6a96531055e", null ],
+      [ "kSCTIMER_Event1InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a35b278ed11503e27ceda405448d43704", null ],
+      [ "kSCTIMER_Event2InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a3733720f1b361ee41e5b7d71c7c08974", null ],
+      [ "kSCTIMER_Event3InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a0a98b0964c6e46c490e78f02f3198f07", null ],
+      [ "kSCTIMER_Event4InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a1cbfebe70908eb5e706e627500c2ce8d", null ],
+      [ "kSCTIMER_Event5InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a306f7c719eeabe666789bb7d0ed8d175", null ],
+      [ "kSCTIMER_Event6InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91afff05c432d290f058588e7f6372030b1", null ],
+      [ "kSCTIMER_Event7InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a5923446a599ede3c2f5d787683bcaa70", null ],
+      [ "kSCTIMER_Event8InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a0267e2748c8e6c0ae37588d85346af5b", null ],
+      [ "kSCTIMER_Event9InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a3617b5ccaab15786e80fb1ff9acbbf94", null ],
+      [ "kSCTIMER_Event10InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a313da28338d9c25f9a5de1e150fdb44e", null ],
+      [ "kSCTIMER_Event11InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a10627d03a81cfa9bb66dc453ecbbb7c3", null ],
+      [ "kSCTIMER_Event12InterruptEnable", "group__sctimer.html#gga93aded072082082c595982f272b89e91a237e390a2de0d3fa877e3f820718d14e", null ]
+    ] ],
+    [ "_sctimer_out", "group__sctimer.html#ga056fee1a7d89df62189f789dbf992793", [
+      [ "kSCTIMER_Out_0", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793adbdf0a5eebc74a8b01eefcc9b3ee742d", null ],
+      [ "kSCTIMER_Out_1", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793a9b869b11ddd20543bab111f9f2699e18", null ],
+      [ "kSCTIMER_Out_2", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793a3a54a6d9baa60d52779a918ed739a8d5", null ],
+      [ "kSCTIMER_Out_3", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793a1b8265e43a813ba11c8f4661032b2c45", null ],
+      [ "kSCTIMER_Out_4", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793aa14ad02f33740bac23837ad10a2188ae", null ],
+      [ "kSCTIMER_Out_5", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793a03be657454ab843d23408d0d20331511", null ],
+      [ "kSCTIMER_Out_6", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793af73ef40ea423cc2cd1314f82914054d9", null ],
+      [ "kSCTIMER_Out_7", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793af02eafb670d82545874712b82416c712", null ],
+      [ "kSCTIMER_Out_8", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793a4834fd8709ba8054330fb42b65962509", null ],
+      [ "kSCTIMER_Out_9", "group__sctimer.html#gga056fee1a7d89df62189f789dbf992793a1c7af66a2d15e4af71cfd6a8c2ae27a5", null ]
+    ] ],
+    [ "_sctimer_pwm_level_select", "group__sctimer.html#gae6037407c91329984a0ff8b156be4b35", [
+      [ "kSCTIMER_LowTrue", "group__sctimer.html#ggae6037407c91329984a0ff8b156be4b35a0c47623cf782903261d17cd642ad9d5e", null ],
+      [ "kSCTIMER_HighTrue", "group__sctimer.html#ggae6037407c91329984a0ff8b156be4b35ad16871f918d603d6f919d54760e262e2", null ]
+    ] ],
+    [ "_sctimer_pwm_mode", "group__sctimer.html#ga24ff7d22605debdeafcdef3455d70379", [
+      [ "kSCTIMER_EdgeAlignedPwm", "group__sctimer.html#gga24ff7d22605debdeafcdef3455d70379a539c00805f4706a43e2669dfa7477dd8", null ],
+      [ "kSCTIMER_CenterAlignedPwm", "group__sctimer.html#gga24ff7d22605debdeafcdef3455d70379ac28f3ae947c63c4fc3663be7d1f7b4e3", null ]
+    ] ],
+    [ "_sctimer_status_flags", "group__sctimer.html#gad9b260d9099acf82291a1ace763a1b3f", [
+      [ "kSCTIMER_Event0Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa23338b52b7a3eb5bf4e0cdf6b854c9f4", null ],
+      [ "kSCTIMER_Event1Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fad07c79a564df84171acdd2f9acd1ee32", null ],
+      [ "kSCTIMER_Event2Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa5738f1fc819177c4377068dcf09dd39d", null ],
+      [ "kSCTIMER_Event3Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fad4b1b9a6e2ba1ca55c536407df2802d4", null ],
+      [ "kSCTIMER_Event4Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa1034b068f1139df001c04fa1c95b5531", null ],
+      [ "kSCTIMER_Event5Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fae91e9c2221c6840f6b6d106a796b6eb3", null ],
+      [ "kSCTIMER_Event6Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa5a8064efce400813ba04b0a3aca7c2bb", null ],
+      [ "kSCTIMER_Event7Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fac6d970ec7b05b2141b48c9eb09bf23f2", null ],
+      [ "kSCTIMER_Event8Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa490a6fdf7a05436e8d7958002e5d48b5", null ],
+      [ "kSCTIMER_Event9Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa19ed3a5f0d87b7c42919ed74ea6630ac", null ],
+      [ "kSCTIMER_Event10Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa99b06fad336b34b1485c6a1a2c634a75", null ],
+      [ "kSCTIMER_Event11Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa07c275c4c55dfe959c222b51557aab25", null ],
+      [ "kSCTIMER_Event12Flag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa3deb3b17762b595a399bbc32efbe8753", null ],
+      [ "kSCTIMER_BusErrorLFlag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa9c4db1ffc833a6eedc6a56a7fee85742", null ],
+      [ "kSCTIMER_BusErrorHFlag", "group__sctimer.html#ggad9b260d9099acf82291a1ace763a1b3fa9a5e7b8190bf25a0695f3b3d54c39bee", null ]
+    ] ],
+    [ "SCTIMER_CreateAndScheduleEvent", "group__sctimer.html#ga2fc1121a0f6dd3f5bc822516f85f096c", null ],
+    [ "SCTIMER_Deinit", "group__sctimer.html#ga467e692ef9a508c75d2dff4d3bb3587e", null ],
+    [ "SCTIMER_EventHandleIRQ", "group__sctimer.html#ga265b0765ff1337a4d13328351b3cebdc", null ],
+    [ "SCTIMER_GetCurrentState", "group__sctimer.html#ga7548cb37efdba143e5c312f7b4461cf7", null ],
+    [ "SCTIMER_GetDefaultConfig", "group__sctimer.html#ga926706158370867f6a1827af9899c5e4", null ],
+    [ "SCTIMER_IncreaseState", "group__sctimer.html#ga211359f9ee3b67eaa96d73b23ce1650d", null ],
+    [ "SCTIMER_Init", "group__sctimer.html#ga44111f6438ee9d11f5c3b26e3c049e47", null ],
+    [ "SCTIMER_ScheduleEvent", "group__sctimer.html#ga54f3ea55cf8cab5a78e26a522536d2fe", null ],
+    [ "SCTIMER_SetCallback", "group__sctimer.html#ga9b685c1dd4fbc33496d5e6445c4d08c7", null ],
+    [ "SCTIMER_SetupCaptureAction", "group__sctimer.html#ga6217a77dba0bc787acde88eabbe4ba55", null ],
+    [ "SCTIMER_SetupOutputToggleAction", "group__sctimer.html#gae6074aeaf3d4004a721d91c50f6a74ad", null ],
+    [ "SCTIMER_SetupPwm", "group__sctimer.html#ga8f372273782f269956227b810e56a844", null ],
+    [ "SCTIMER_UpdatePwmDutycycle", "group__sctimer.html#ga745f5f328599202df06a81b6fe307b63", null ]
+];

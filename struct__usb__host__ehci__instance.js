@@ -1,0 +1,28 @@
+var struct__usb__host__ehci__instance =
+[
+    [ "controllerId", "struct__usb__host__ehci__instance.html#ab6cd9272ee9342cf8372c9b53478ef01", null ],
+    [ "deviceAttached", "struct__usb__host__ehci__instance.html#a209ffe19f329ccf78ff596be04377b2e", null ],
+    [ "ehciFrameList", "struct__usb__host__ehci__instance.html#a3da356802c17c360e9eec1f63a974524", null ],
+    [ "ehciIpBase", "struct__usb__host__ehci__instance.html#aa5b33cb5bc0057c64af11d5e9b04186d", null ],
+    [ "ehciIsoList", "struct__usb__host__ehci__instance.html#a8769480bf3b84183dd28274897ed0115", null ],
+    [ "ehciItdList", "struct__usb__host__ehci__instance.html#acbfb384805bf58e673eaf854f728cc19", null ],
+    [ "ehciItdNumber", "struct__usb__host__ehci__instance.html#acda9b5a684644c880ab652e76905a2e9", null ],
+    [ "ehciMutex", "struct__usb__host__ehci__instance.html#a40da8c47ac667300c2e57e070e001928", null ],
+    [ "ehciPipeIndexBase", "struct__usb__host__ehci__instance.html#a90ccadb38825ce692302aa3c24cc80d8", null ],
+    [ "ehciPipeList", "struct__usb__host__ehci__instance.html#a4fa07b2c565745a19411860d52164d36", null ],
+    [ "ehciQhList", "struct__usb__host__ehci__instance.html#a8ae569c838a7c0d4b7fa980ead2f3b0a", null ],
+    [ "ehciQtdHead", "struct__usb__host__ehci__instance.html#a146f87933b0b7642d120131c12591534", null ],
+    [ "ehciQtdNumber", "struct__usb__host__ehci__instance.html#aad8347765053028a942b8c7b59f19d6c", null ],
+    [ "ehciQtdTail", "struct__usb__host__ehci__instance.html#a381d23ff9f30112c5b2c0cc62eda948a", null ],
+    [ "ehciRunningPipeList", "struct__usb__host__ehci__instance.html#af86059543fbc101c8aafe80f33fd38d4", null ],
+    [ "ehciSitdIndexBase", "struct__usb__host__ehci__instance.html#a980f3b40dd088c1fae691536886336af", null ],
+    [ "ehciSitdList", "struct__usb__host__ehci__instance.html#a6a4ae55dc86eeddb20d48edaba2d6e2f", null ],
+    [ "ehciSitdNumber", "struct__usb__host__ehci__instance.html#a207618853a4eede7791d61365097640d", null ],
+    [ "ehciUnitBase", "struct__usb__host__ehci__instance.html#ade57dea419fa4cc6a19180d7d46405e4", null ],
+    [ "firstDeviceSpeed", "struct__usb__host__ehci__instance.html#ac60a50b132ceb2ed36a5a4f969e64597", null ],
+    [ "hostHandle", "struct__usb__host__ehci__instance.html#a7b2782942c5f75e8f8121255920d662c", null ],
+    [ "mutexBuffer", "struct__usb__host__ehci__instance.html#a1bcabe09d830a2b83caf25deca084ab5", null ],
+    [ "shedFirstQh", "struct__usb__host__ehci__instance.html#a80b469d75751218cbf9aae955962c9d5", null ],
+    [ "taskEventHandle", "struct__usb__host__ehci__instance.html#a401771ef0000ca1da566de33acb2958a", null ],
+    [ "taskEventHandleBuffer", "struct__usb__host__ehci__instance.html#a5ecc685c783b031fffb845578db85fe4", null ]
+];

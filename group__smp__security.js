@@ -1,0 +1,26 @@
+var group__smp__security =
+[
+    [ "SMP_BONDING", "group__smp__security.html#gaf80c46b9d007d6ee98ee4331cb678a7c", null ],
+    [ "SMP_BONDING_NONE", "group__smp__security.html#gae2f06022948e22c32da00928d35afc7d", null ],
+    [ "SMP_DIST_MASK_ENC_KEY", "group__smp__security.html#gacb35d47cfb31ef390f02d5db652b59c8", null ],
+    [ "SMP_DIST_MASK_ID_KEY", "group__smp__security.html#ga97a0a274efeb3d5e0fe3f276f1e78210", null ],
+    [ "SMP_DIST_MASK_LINK_KEY", "group__smp__security.html#ga067bee30099ac57685a31c199ab6e54c", null ],
+    [ "SMP_DIST_MASK_SIGN_KEY", "group__smp__security.html#ga10f85cf2dfea0d47547637c4072f8f84", null ],
+    [ "SMP_ENTITY_AUTH_OFF", "group__smp__security.html#gac9dc0e6a50715c9ddf075c8727851879", null ],
+    [ "SMP_IOCAP_DISPLAY_ONLY", "group__smp__security.html#gaad1b816bbd184092212bc5a3e6be4869", null ],
+    [ "SMP_IOCAP_DISPLAY_YESNO", "group__smp__security.html#gab9fd9e12be7c1ccf1ad4a272f268b6c7", null ],
+    [ "SMP_IOCAP_KEYBOARD_DISPLAY", "group__smp__security.html#gaaf2aa8f0efe195ba19908e1d3d73a581", null ],
+    [ "SMP_IOCAP_KEYBOARD_ONLY", "group__smp__security.html#ga82cca0b0ff910b504660d97188eb7f7f", null ],
+    [ "SMP_IOCAP_NOINPUT_NOOUTPUT", "group__smp__security.html#gad7e8bdce253fc112b1dcd6911baf33e9", null ],
+    [ "SMP_MAX_ENCRYPTION_KEY_SIZE", "group__smp__security.html#ga84ba6cf9fbab2173538a06749afef677", null ],
+    [ "SMP_MIN_ENCRYPTION_KEY_SIZE", "group__smp__security.html#gab9e686f8b961b9c4c8de552e956df66a", null ],
+    [ "SMP_OOB_AUTH_DATA_AVAILABLE", "group__smp__security.html#ga1c51571f5714109faa0d5af2326f2957", null ],
+    [ "SMP_OOB_AUTH_DATA_UNAVAILABLE", "group__smp__security.html#ga89f38ce9007437d04769662f7e6e7847", null ],
+    [ "SMP_SEC_LEVEL_0", "group__smp__security.html#ga50ddc6e75b83635be2b35aabb9eec829", null ],
+    [ "SMP_SEC_LEVEL_1", "group__smp__security.html#gaa6c36ac0ebf63c8e6e4efe414f0ea061", null ],
+    [ "SMP_SEC_LEVEL_2", "group__smp__security.html#ga4d5925b33a9a745f112f11ae1e78ef17", null ],
+    [ "SMP_SEC_LEVEL_MASK", "group__smp__security.html#ga78f06d9d58dccd4bb1e958a6bf489829", null ],
+    [ "SMP_SEC_MODE_1", "group__smp__security.html#gafdae200c2bdc7c0a23b63874f1742713", null ],
+    [ "SMP_SEC_MODE_2", "group__smp__security.html#ga211678f3f171d36088525eaf208892a9", null ],
+    [ "SMP_SEC_MODE_MASK", "group__smp__security.html#ga101c7d18770286f54448f19093782282", null ]
+];

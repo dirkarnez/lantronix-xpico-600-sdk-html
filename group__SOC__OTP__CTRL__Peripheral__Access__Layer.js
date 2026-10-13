@@ -1,0 +1,36 @@
+var group__SOC__OTP__CTRL__Peripheral__Access__Layer =
+[
+    [ "SOC_OTP_CTRL Register Masks", "group__SOC__OTP__CTRL__Register__Masks.html", "group__SOC__OTP__CTRL__Register__Masks" ],
+    [ "SOC_OTP_CTRL_Type", "structSOC__OTP__CTRL__Type.html", [
+      [ "OTP_ADDR", "structSOC__OTP__CTRL__Type.html#a60b3542675c057290e05224c2ac96a1e", null ],
+      [ "OTP_BYPASS_MODE0", "structSOC__OTP__CTRL__Type.html#a50f5251e17580da12bf9768897736494", null ],
+      [ "OTP_BYPASS_MODE1", "structSOC__OTP__CTRL__Type.html#a84f1a566f72bbbc627bf58058234e423", null ],
+      [ "OTP_BYPASS_MODE2", "structSOC__OTP__CTRL__Type.html#aa7289ab5fdadb22f78792e870c11e4bd", null ],
+      [ "OTP_CMD_START", "structSOC__OTP__CTRL__Type.html#a811044d23ad7fc33b650925ba4cd0981", null ],
+      [ "OTP_CTRL0", "structSOC__OTP__CTRL__Type.html#a7458ebb64e0112b0ade8d4ef10ab53c0", null ],
+      [ "OTP_CTRL1", "structSOC__OTP__CTRL__Type.html#abfce1515a6b0d9cc3a790c09b8921a42", null ],
+      [ "OTP_PARAM0", "structSOC__OTP__CTRL__Type.html#ab7bab490544fba8f03993bcd806c8878", null ],
+      [ "OTP_PARAM1", "structSOC__OTP__CTRL__Type.html#a2d9f7ddac392b22ee99eef3ac3e5167a", null ],
+      [ "OTP_PARAM2", "structSOC__OTP__CTRL__Type.html#adad1237489183c44058e9eb76f812b45", null ],
+      [ "OTP_POR_B", "structSOC__OTP__CTRL__Type.html#a908db9eacff70fc6c7478d09b3241374", null ],
+      [ "OTP_RST_B", "structSOC__OTP__CTRL__Type.html#a243dea2ee1c2f3690a172005563f66cd", null ],
+      [ "OTP_SPARE0", "structSOC__OTP__CTRL__Type.html#ac93dbcad3d7b5b2fbc87385e9e42673a", null ],
+      [ "OTP_SPARE1", "structSOC__OTP__CTRL__Type.html#a5781c0fcc49564d30192fb255a777a6d", null ],
+      [ "OTP_TESTBUS", "structSOC__OTP__CTRL__Type.html#a0b65c8a9881ea964ed61b215358f0715", null ],
+      [ "OTP_TESTBUS_SEL", "structSOC__OTP__CTRL__Type.html#a2d108c90eddacb3dfa122989a88ad2e1", null ],
+      [ "OTP_WDATA0", "structSOC__OTP__CTRL__Type.html#a90fd3034830852e2aa500397936516a8", null ],
+      [ "OTP_WDATA1", "structSOC__OTP__CTRL__Type.html#a0037246db7231e8a594e4b6be9a6ab79", null ],
+      [ "OTP_WDATA2", "structSOC__OTP__CTRL__Type.html#ad103bb2073f2c5f6c25688a736b76ffd", null ],
+      [ "OTP_WDATA3", "structSOC__OTP__CTRL__Type.html#a8c515f326f5d397b339409fcb0697855", null ],
+      [ "OTP_WDATA4", "structSOC__OTP__CTRL__Type.html#acedea941d69480efdcacfc0e4966a416", null ],
+      [ "OTP_WRITE_DIS_REG_111_96", "structSOC__OTP__CTRL__Type.html#a02745fb6159a70956066c0007e6bbb2d", null ],
+      [ "OTP_WRITE_DIS_REG_127_112", "structSOC__OTP__CTRL__Type.html#a724c24363ed81077e7ac1ccf0d23abd0", null ],
+      [ "OTP_WRITE_DIS_REG_15_0", "structSOC__OTP__CTRL__Type.html#a5e586af56bf787910ad7af601f68fb10", null ],
+      [ "OTP_WRITE_DIS_REG_31_16", "structSOC__OTP__CTRL__Type.html#a1c709228c3477663b6677796fe0b1090", null ],
+      [ "OTP_WRITE_DIS_REG_47_32", "structSOC__OTP__CTRL__Type.html#a3c032df8f261624b9f9a32f4881a406c", null ],
+      [ "OTP_WRITE_DIS_REG_63_48", "structSOC__OTP__CTRL__Type.html#a5b25b56792cbaeb60a683bd44dc8265d", null ],
+      [ "OTP_WRITE_DIS_REG_79_64", "structSOC__OTP__CTRL__Type.html#a0fbd6f3f005182948ec5406f63c0651e", null ],
+      [ "OTP_WRITE_DIS_REG_95_80", "structSOC__OTP__CTRL__Type.html#ad7429afcb02dae0c8ea9dd649059e968", null ],
+      [ "OTP_WRITE_LOCK_REG", "structSOC__OTP__CTRL__Type.html#a019c17302dbeafca816441b88d46bdd2", null ]
+    ] ]
+];

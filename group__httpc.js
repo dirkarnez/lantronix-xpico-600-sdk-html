@@ -1,0 +1,59 @@
+var group__httpc =
+[
+    [ "ltrx_http_client_connect_info", "structltrx__http__client__connect__info.html", [
+      [ "host", "structltrx__http__client__connect__info.html#aae61b3470672cad7e532bfd3613484da", null ],
+      [ "host_port", "structltrx__http__client__connect__info.html#ad375d11631991dd6971e03b1f576b9be", null ],
+      [ "local_port", "structltrx__http__client__connect__info.html#a557665deb08ad4f10c9595fca0a63cf3", null ],
+      [ "url", "structltrx__http__client__connect__info.html#a45d0da86aa7c458b7f14cc41d7d82d80", null ]
+    ] ],
+    [ "ltrx_http_client_header", "structltrx__http__client__header.html", [
+      [ "name", "structltrx__http__client__header.html#ad2564f193d0cb66a5467f423b8ddaa97", null ],
+      [ "value", "structltrx__http__client__header.html#ae6f589a7ec6b2007463066b59a248f33", null ]
+    ] ],
+    [ "ltrx_httpc_method", "group__httpc.html#ga42e14266aa7d108b1a988f7c21674c3c", [
+      [ "LTRX_HTTPC_METHOD__UNSPECIFIED", "group__httpc.html#gga42e14266aa7d108b1a988f7c21674c3ca20d9bb81f547565ac15d5a206c1f7094", null ],
+      [ "LTRX_HTTPC_METHOD__POST", "group__httpc.html#gga42e14266aa7d108b1a988f7c21674c3caa6bc2c283d59019ffbcf978fddfd257c", null ],
+      [ "LTRX_HTTPC_METHOD__GET", "group__httpc.html#gga42e14266aa7d108b1a988f7c21674c3ca57a06fd57b5ec1bccccd5855c7fd227b", null ],
+      [ "LTRX_HTTPC_METHOD__PUT", "group__httpc.html#gga42e14266aa7d108b1a988f7c21674c3ca8f677107b49aae2b9fd718b6c77aa011", null ]
+    ] ],
+    [ "ltrx_httpc_return_code", "group__httpc.html#ga9f60f704ec35389621a35d052470aa02", [
+      [ "LTRX_HTTPC_RC__SUCCESS", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02a78649147c67ad5d7f18995158e6d49eb", null ],
+      [ "LTRX_HTTPC_RC__INVALID_PARAMETER", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02a2df91e8a862f7f12f26a93d6cb15771a", null ],
+      [ "LTRX_HTTPC_RC__NOT_ENOUGH_MEMORY", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02ad54063a6088400518607b126d6553136", null ],
+      [ "LTRX_HTTPC_RC__INVALID_STATE", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02ac147bae5aa440d8252077b840854ec36", null ],
+      [ "LTRX_HTTPC_RC__CONNECT_FAILED", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02ab7ff8536e90e587793a8fa88dd3c801c", null ],
+      [ "LTRX_HTTPC_RC__PROTOCOL_ERROR", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02a055f5bc437a572150b8d19af8fa49d10", null ],
+      [ "LTRX_HTTPC_RC__HTTP_ERROR_RESPONSE", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02aabd4cf84ec3194c9253e9bb5c5821f04", null ],
+      [ "LTRX_HTTPC_RC__OTHER_FAILURE", "group__httpc.html#gga9f60f704ec35389621a35d052470aa02ac102a366be0ee4beb6d35af8907d72ae", null ]
+    ] ],
+    [ "ltrx_httpc_request_add_header", "group__httpc.html#gae97c100dadc2c5395a3822b83bf7a752", null ],
+    [ "ltrx_httpc_request_add_mime_type", "group__httpc.html#ga04b6f1412fd103446db07ac364821f3b", null ],
+    [ "ltrx_httpc_request_add_tls_authority", "group__httpc.html#gab8b7b0fc8b53d9b9d556558d13e1aa8f", null ],
+    [ "ltrx_httpc_request_clear", "group__httpc.html#gacc7012bd33ea9f572e4bc98679a38a33", null ],
+    [ "ltrx_httpc_request_connect_and_send_headers", "group__httpc.html#gab29c9fa79ecb54ae430c22218fdb5052", null ],
+    [ "ltrx_httpc_request_create", "group__httpc.html#ga35c5dcb28641769742d7933c067ed2b9", null ],
+    [ "ltrx_httpc_request_destroy", "group__httpc.html#gad7e2aee0257fdb8ec593487961003712", null ],
+    [ "ltrx_httpc_request_disconnect", "group__httpc.html#gaac194c487cf70890707975d9787ff6de", null ],
+    [ "ltrx_httpc_request_execute", "group__httpc.html#ga0940e770e634fa3394b3c450362aa301", null ],
+    [ "ltrx_httpc_request_get_log_verbosity", "group__httpc.html#gac5c05744e179af7d6348cd0d5fc4cdb8", null ],
+    [ "ltrx_httpc_request_get_status_code", "group__httpc.html#ga8146458e70a16e9c8e2363b39910c93c", null ],
+    [ "ltrx_httpc_request_receive", "group__httpc.html#gacc1cf8f00d9074103d0247b1252790d5", null ],
+    [ "ltrx_httpc_request_send_content", "group__httpc.html#gaef17d4640e590270a4d483da1cdaa802", null ],
+    [ "ltrx_httpc_request_set_100continue_timeout", "group__httpc.html#ga1ee325346a5c2a464688e1e17499eb19", null ],
+    [ "ltrx_httpc_request_set_connect_info", "group__httpc.html#ga57c20c629ca5f88662826c1a4ba6d348", null ],
+    [ "ltrx_httpc_request_set_debug", "group__httpc.html#gaf8a75e39ec400568a85c095a8f6cf2d5", null ],
+    [ "ltrx_httpc_request_set_log_verbosity", "group__httpc.html#ga25f436ce0c4852549db18f6cdd17965b", null ],
+    [ "ltrx_httpc_request_set_method", "group__httpc.html#ga2ebbcd6039873e0ed38f7d8848328285", null ],
+    [ "ltrx_httpc_request_set_response_buffer_malloc", "group__httpc.html#gaa7751a53cfa7c431bf4089de187b3f4c", null ],
+    [ "ltrx_httpc_request_set_response_callback", "group__httpc.html#gaf293d58c3e727870f4617ae4789ef129", null ],
+    [ "ltrx_httpc_request_set_response_inactivity_timeout", "group__httpc.html#gab7b9fcd866dd9230dad44c6a14c494cd", null ],
+    [ "ltrx_httpc_request_set_response_stream", "group__httpc.html#ga2e650e2cf9e88c6859a096892c4efe63", null ],
+    [ "ltrx_httpc_request_set_tls_credential", "group__httpc.html#ga3ab7900c10e80925839f44e09e96731a", null ],
+    [ "ltrx_httpc_request_set_user_agent", "group__httpc.html#gac15d662e1913b0a7181639522483f8ea", null ],
+    [ "ltrx_httpc_request_set_write_buffer", "group__httpc.html#ga478429370cf665b80924dbfe2991366f", null ],
+    [ "ltrx_httpc_request_set_write_function", "group__httpc.html#ga301f7782971627d1e61bd2f998c4bf3e", null ],
+    [ "ltrx_httpc_request_set_write_stream", "group__httpc.html#ga220c490e0b0055728b290041c2aa3251", null ],
+    [ "ltrx_httpc_strerror", "group__httpc.html#ga6c415ef49f5b7cf6d282613c9f5ade82", null ],
+    [ "ltrx_input_stream_init_from_httpc_request", "group__httpc.html#gab8abf57ed6a944a5068abbc4f7370c24", null ],
+    [ "ltrx_output_stream_init_to_httpc_request", "group__httpc.html#ga6524dcff3a884430a69982ba0e38a461", null ]
+];

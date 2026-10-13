@@ -1,0 +1,25 @@
+var struct__flexspi__config =
+[
+    [ "ahbBusTimeoutCycle", "struct__flexspi__config.html#a39c02110e809a7b015ced656e03c4dff", null ],
+    [ "ahbGrantTimeoutCycle", "struct__flexspi__config.html#a2cccd728bae354ccd480ef77f4280359", null ],
+    [ "buffer", "struct__flexspi__config.html#a8625ab1e9a4297feb560daaa3f02a32c", null ],
+    [ "enableAHBBufferable", "struct__flexspi__config.html#aa8e89cd73c3dc0c25818760e65f71330", null ],
+    [ "enableAHBCachable", "struct__flexspi__config.html#a3b5f6efffb62ad1a2e9f5d98dc76ba36", null ],
+    [ "enableAHBPrefetch", "struct__flexspi__config.html#a4a8c83704bfa2fba9fd27afae755cdc0", null ],
+    [ "enableAHBWriteIpRxFifo", "struct__flexspi__config.html#a5193389b6976a31c46bea2b832ec39ce", null ],
+    [ "enableAHBWriteIpTxFifo", "struct__flexspi__config.html#a7ab1cdc43e0c5d16bc1f90ebf42eb561", null ],
+    [ "enableClearAHBBufferOpt", "struct__flexspi__config.html#a3ffaa97a04b06e8a08314f37fd417325", null ],
+    [ "enableCombination", "struct__flexspi__config.html#ad9814ec66e0f5bb472d1a90af02c260e", null ],
+    [ "enableDoze", "struct__flexspi__config.html#a2384344decb673f8f71ef6336fd9883e", null ],
+    [ "enableHalfSpeedAccess", "struct__flexspi__config.html#a5fa118eacd8b42ec7aff675794785e89", null ],
+    [ "enableReadAddressOpt", "struct__flexspi__config.html#adc36f77c336243b7f1f5108c44286e18", null ],
+    [ "enableSameConfigForAll", "struct__flexspi__config.html#af4c3027e50ab69d35a015142ade5bb62", null ],
+    [ "enableSckBDiffOpt", "struct__flexspi__config.html#a3a0fb2ab371617aa9416c2598f9c65a5", null ],
+    [ "enableSckFreeRunning", "struct__flexspi__config.html#aac53cf0a47755797a0b181da0d03e5fa", null ],
+    [ "ipGrantTimeoutCycle", "struct__flexspi__config.html#a7a4d7cc1fd63f9b896e62d32c3a0e95f", null ],
+    [ "resumeWaitCycle", "struct__flexspi__config.html#a836228398df7b82861a91a260d483f0d", null ],
+    [ "rxSampleClock", "struct__flexspi__config.html#ab93a70b962e412c67056c594ccb253d9", null ],
+    [ "rxWatermark", "struct__flexspi__config.html#ae7bb87d255b05de7c01ed2e566804d1f", null ],
+    [ "seqTimeoutCycle", "struct__flexspi__config.html#a17f7b7f6a97f7d4d57ca0d77f847fa92", null ],
+    [ "txWatermark", "struct__flexspi__config.html#a11e4f7ca7d4499444f65eac2c71ed64e", null ]
+];

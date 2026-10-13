@@ -1,0 +1,32 @@
+var group__PKC__Peripheral__Access__Layer =
+[
+    [ "PKC Register Masks", "group__PKC__Register__Masks.html", "group__PKC__Register__Masks" ],
+    [ "PKC_Type", "structPKC__Type.html", [
+      [ "PKC_ACCESS_ERR", "structPKC__Type.html#a2b366f2b36b69fd9ae15ca1f7000ce53", null ],
+      [ "PKC_ACCESS_ERR_CLR", "structPKC__Type.html#a071cce1a0d7f4a0f6e0e0da3f6de892d", null ],
+      [ "PKC_CFG", "structPKC__Type.html#a438da2655672425cf4a97f671a17bfd9", null ],
+      [ "PKC_CTRL", "structPKC__Type.html#a5cb40e5435ea7f07e6c960b12e59e18d", null ],
+      [ "PKC_INT_CLR_ENABLE", "structPKC__Type.html#ad01b7d60ffb607384db6dae81fbb711e", null ],
+      [ "PKC_INT_CLR_STATUS", "structPKC__Type.html#a73b714515601908b221598950b53de74", null ],
+      [ "PKC_INT_ENABLE", "structPKC__Type.html#ac4af4183d9afc320c7ff0362487d8508", null ],
+      [ "PKC_INT_SET_ENABLE", "structPKC__Type.html#abff131f97699b3c06755dcb353886d21", null ],
+      [ "PKC_INT_SET_STATUS", "structPKC__Type.html#a9c20a07134da0bb596f04f2b768de382", null ],
+      [ "PKC_INT_STATUS", "structPKC__Type.html#a65c1751252cb4ebf665fe3fd3edeb5b7", null ],
+      [ "PKC_LEN1", "structPKC__Type.html#a2b8d604dfc5f628b367538cdf3f23ee3", null ],
+      [ "PKC_LEN2", "structPKC__Type.html#a910e70ed65280d29acfd1ce242a7ebcb", null ],
+      [ "PKC_MCDATA", "structPKC__Type.html#af5f739514f3f95f9b6cd8f24520ccd82", null ],
+      [ "PKC_MODE1", "structPKC__Type.html#ad6cf9b95349b0d3c9a0d018646df4882", null ],
+      [ "PKC_MODE2", "structPKC__Type.html#abd2c8326d6fa93b0780b7e75a3ea31e5", null ],
+      [ "PKC_MODULE_ID", "structPKC__Type.html#ab834592702345ae50e1ad6904b99217d", null ],
+      [ "PKC_SOFT_RST", "structPKC__Type.html#a72639b98184b691a3978bf5db0eed9ab", null ],
+      [ "PKC_STATUS", "structPKC__Type.html#a89a2a645abc03861fa8050c5c0e471bf", null ],
+      [ "PKC_ULEN", "structPKC__Type.html#a2dd73e85021b3b22f694e1416cb0937b", null ],
+      [ "PKC_UPTR", "structPKC__Type.html#a83436e09ed450342d510a338dda29a17", null ],
+      [ "PKC_UPTRT", "structPKC__Type.html#a08d4bff2dc0b9546dc41e3886cbf3244", null ],
+      [ "PKC_VERSION", "structPKC__Type.html#ab08df12dd339367f138a617afec73745", null ],
+      [ "PKC_XYPTR1", "structPKC__Type.html#a9e4691e86aa3b2b2648cdbfabfd81d49", null ],
+      [ "PKC_XYPTR2", "structPKC__Type.html#ac0cc7d4b642e2ca0831d30ff00a84352", null ],
+      [ "PKC_ZRPTR1", "structPKC__Type.html#a267a13dba3f0483e685a8c2545061869", null ],
+      [ "PKC_ZRPTR2", "structPKC__Type.html#a4060444876c62a3b7a3b2a0663a8177e", null ]
+    ] ]
+];

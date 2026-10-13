@@ -1,0 +1,26 @@
+var struct__usb__device__ccid__secure__pin__modification__command =
+[
+    [ "abPINApdu", "struct__usb__device__ccid__secure__pin__modification__command.html#a4dd957011472d2ce71616652c4056388", null ],
+    [ "bBWI", "struct__usb__device__ccid__secure__pin__modification__command.html#acf2031fc807a6c4aab7408bd539aa30a", null ],
+    [ "bConfirmPIN", "struct__usb__device__ccid__secure__pin__modification__command.html#a4f5a0198f42063f9eac135830065bbdb", null ],
+    [ "bEntryValidationCondition", "struct__usb__device__ccid__secure__pin__modification__command.html#aa2557fa37e3c282b0a5cd04c7cd541da", null ],
+    [ "bInsertionOffsetNew", "struct__usb__device__ccid__secure__pin__modification__command.html#a6a060e55f87ff7cd484499407670e4b9", null ],
+    [ "bInsertionOffsetOld", "struct__usb__device__ccid__secure__pin__modification__command.html#aed200e7ac58a0b55ebfe801e742ecceb", null ],
+    [ "bMessageType", "struct__usb__device__ccid__secure__pin__modification__command.html#a12ea96d1e1629302cb23a8cadeb69b5f", null ],
+    [ "bmFormatString", "struct__usb__device__ccid__secure__pin__modification__command.html#a1da79f84f0e2fb31bd8548898bd5f84f", null ],
+    [ "bmPINBlockString", "struct__usb__device__ccid__secure__pin__modification__command.html#a5918115511c8e9f86897dcdbe2ecdf05", null ],
+    [ "bmPINLengthFormat", "struct__usb__device__ccid__secure__pin__modification__command.html#adf55545027adc22daf907cfea941acfa", null ],
+    [ "bMsgIndex1", "struct__usb__device__ccid__secure__pin__modification__command.html#ac3dec8fbce3e24a02c27330b2a07d273", null ],
+    [ "bMsgIndex2", "struct__usb__device__ccid__secure__pin__modification__command.html#a2ba53b069575d080ae28904a80db634c", null ],
+    [ "bMsgIndex3", "struct__usb__device__ccid__secure__pin__modification__command.html#abcf96b5c0f83681eb19561fde086839a", null ],
+    [ "bNumberMessage", "struct__usb__device__ccid__secure__pin__modification__command.html#aad7dbde31a817d44818a465254d6b1ac", null ],
+    [ "bPINOperation", "struct__usb__device__ccid__secure__pin__modification__command.html#aa5b02bc3eae8f9edc04fd87dc7d1d080", null ],
+    [ "bSeq", "struct__usb__device__ccid__secure__pin__modification__command.html#ab171d47ed82676999b8587b978cbf42e", null ],
+    [ "bSlot", "struct__usb__device__ccid__secure__pin__modification__command.html#a07c982dc194c0ad2c46d099d22187724", null ],
+    [ "bTeoPrologue", "struct__usb__device__ccid__secure__pin__modification__command.html#a36a0f1c2da99ad92244a510df44ddcf6", null ],
+    [ "bTimeOut", "struct__usb__device__ccid__secure__pin__modification__command.html#ae3d9e5ac88de837909e9f565a515b497", null ],
+    [ "dwLength", "struct__usb__device__ccid__secure__pin__modification__command.html#a9e8ee6416765e307dad11d4a8f583a43", null ],
+    [ "wLangId", "struct__usb__device__ccid__secure__pin__modification__command.html#ad3a3dce33a3a1a1b8c167fed0ffd28db", null ],
+    [ "wLevelParameter", "struct__usb__device__ccid__secure__pin__modification__command.html#a0905b7d1eef8e2b827e8ef4ad367a1a4", null ],
+    [ "wPINMaxExtraDigit", "struct__usb__device__ccid__secure__pin__modification__command.html#a0306217a950f3a7dc82dfd41d9d6295d", null ]
+];

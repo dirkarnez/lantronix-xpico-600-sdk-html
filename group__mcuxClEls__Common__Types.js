@@ -1,0 +1,85 @@
+var group__mcuxClEls__Common__Types =
+[
+    [ "mcuxClEls_HwConfig_t", "unionmcuxClEls__HwConfig__t.html", [
+      [ "__pad0__", "unionmcuxClEls__HwConfig__t.html#aa06967699abb851f567edb7ae687a0d2", null ],
+      [ "authciphersup", "unionmcuxClEls__HwConfig__t.html#acd5dabf360244a33333e3063010ad26d", null ],
+      [ "bits", "unionmcuxClEls__HwConfig__t.html#a7002183b4399ba4bd4a7c7816e0e944e", null ],
+      [ "ciphersup", "unionmcuxClEls__HwConfig__t.html#ac0db95aaf62ac50581111452e89de3ba", null ],
+      [ "ckdfsup", "unionmcuxClEls__HwConfig__t.html#a05b73ed0395351b9504c35f54ac50495", null ],
+      [ "cmacsup", "unionmcuxClEls__HwConfig__t.html#ad30966f27a451f027aed32c036289515", null ],
+      [ "drbgreqsup", "unionmcuxClEls__HwConfig__t.html#a1519b8980b5d2615c96ac1c788014e6d", null ],
+      [ "drbgtestsup", "unionmcuxClEls__HwConfig__t.html#ae70916d8e053e37a7de79db3c873cdd5", null ],
+      [ "dtrgncfgloadsup", "unionmcuxClEls__HwConfig__t.html#a1655b1afaf9b84514817f11e71f21232", null ],
+      [ "dtrngevalsup", "unionmcuxClEls__HwConfig__t.html#a7ab5fc2fd5378fbf9044f6eb47b74602", null ],
+      [ "eckxchsup", "unionmcuxClEls__HwConfig__t.html#ac9e323809993203e0867e37641f7d9e0", null ],
+      [ "ecsignsup", "unionmcuxClEls__HwConfig__t.html#ab5a3a301e2fa7ed724b1a10db46a4dc1", null ],
+      [ "ecvfysup", "unionmcuxClEls__HwConfig__t.html#a082dbc1af5f81f7d76e32c01e35a6c81", null ],
+      [ "gdetcfgloadsup", "unionmcuxClEls__HwConfig__t.html#a83e2de492b29950e62bdc159629a7e87", null ],
+      [ "gdettrimsup", "unionmcuxClEls__HwConfig__t.html#a546385b574e49302ba2e748303fa91a4", null ],
+      [ "hashsup", "unionmcuxClEls__HwConfig__t.html#ac5fc6ff1883c09e1ed72412f53514b13", null ],
+      [ "hkdfsup", "unionmcuxClEls__HwConfig__t.html#af443a864be5d2d0ab3c6a2f007fe9afe", null ],
+      [ "hmacsup", "unionmcuxClEls__HwConfig__t.html#a4cf06c58477f35949dc0089a3a3184ce", null ],
+      [ "kdeletesup", "unionmcuxClEls__HwConfig__t.html#aff9488c467cfca4942ba41b51c4225b7", null ],
+      [ "keygensup", "unionmcuxClEls__HwConfig__t.html#add6853a64d3322d8400c601277d42afb", null ],
+      [ "keyinsup", "unionmcuxClEls__HwConfig__t.html#a10e2de8c251bc00183a2d578fb778661", null ],
+      [ "keyoutsup", "unionmcuxClEls__HwConfig__t.html#a6bbf59e55899238b17d7a1266d6a063a", null ],
+      [ "keyprovsup", "unionmcuxClEls__HwConfig__t.html#a55ac97e5d1105cd9f5ac217d05a8e0c2", null ],
+      [ "tlsinitsup", "unionmcuxClEls__HwConfig__t.html#a9dc24a8f88688b9d4cc5c305acbf46e5", null ],
+      [ "value", "unionmcuxClEls__HwConfig__t.html#a2cf565902d36ad357eaaa793eb4be8d5", null ],
+      [ "word", "unionmcuxClEls__HwConfig__t.html#a4cf21cf9499b81e67201921b14932122", null ]
+    ] ],
+    [ "mcuxClEls_HwState_t", "unionmcuxClEls__HwState__t.html", [
+      [ "__pad0__", "unionmcuxClEls__HwState__t.html#ae4d9f2540dc7380b776ff6de6325c22f", null ],
+      [ "__pad1__", "unionmcuxClEls__HwState__t.html#aacebdfe99f0d29f126adc2a9d42a4b22", null ],
+      [ "__pad2__", "unionmcuxClEls__HwState__t.html#a68593765ff0c58861d600be91ee332a3", null ],
+      [ "__pad3__", "unionmcuxClEls__HwState__t.html#a240bdaa5a99cd057983b3cbe28e33fb1", null ],
+      [ "bits", "unionmcuxClEls__HwState__t.html#a844ad88285ca557fb3f1afb9cf58bc09", null ],
+      [ "busy", "unionmcuxClEls__HwState__t.html#a453ae753658b4809ea3141fffd5641c8", null ],
+      [ "drbgentlvl", "unionmcuxClEls__HwState__t.html#a87b6c5ce545619bb478efcc020f862ff", null ],
+      [ "dtrng_busy", "unionmcuxClEls__HwState__t.html#a05b012990a92e9deaada4a5d87ac380a", null ],
+      [ "ecdsavfy", "unionmcuxClEls__HwState__t.html#a41492f22ac15d4cc4feebd517faa75ba", null ],
+      [ "err", "unionmcuxClEls__HwState__t.html#a5513d9d58397ac4701044421f2c8fd28", null ],
+      [ "irq", "unionmcuxClEls__HwState__t.html#afaa797f8db7f6252bf4ae54eb875c7fd", null ],
+      [ "pprot", "unionmcuxClEls__HwState__t.html#ac5b11ab2a0744e13303e920bee052f5b", null ],
+      [ "prngready", "unionmcuxClEls__HwState__t.html#afbd164dd41b80e5a24310b6dac33cf79", null ],
+      [ "value", "unionmcuxClEls__HwState__t.html#a9e0ca3d1f7797c407e594e55411549b0", null ],
+      [ "word", "unionmcuxClEls__HwState__t.html#a260d4ffbd479aa0093e616f4170161de", null ]
+    ] ],
+    [ "mcuxClEls_HwVersion_t", "unionmcuxClEls__HwVersion__t.html", [
+      [ "__pad0__", "unionmcuxClEls__HwVersion__t.html#a3f71ee0da1f604f06bce53faaee88549", null ],
+      [ "bits", "unionmcuxClEls__HwVersion__t.html#aeb2b3b23bf511a31001ab90ee792a958", null ],
+      [ "level", "unionmcuxClEls__HwVersion__t.html#a362c318252fad3db6e55fde7dac2572f", null ],
+      [ "major", "unionmcuxClEls__HwVersion__t.html#a0c4765f9784a475579e0fd433a753011", null ],
+      [ "minor", "unionmcuxClEls__HwVersion__t.html#a648e4b690824c4652c70d707e00b6ffe", null ],
+      [ "revision", "unionmcuxClEls__HwVersion__t.html#a11c1bba1b577058ea774f9fb51dfd449", null ],
+      [ "value", "unionmcuxClEls__HwVersion__t.html#a5e9b7103d2b419e9d860c04eb142d6e2", null ],
+      [ "word", "unionmcuxClEls__HwVersion__t.html#aad5b9144d8bfe56ec15a31f0bb1db2be", null ]
+    ] ],
+    [ "mcuxClEls_InterruptOptionEn_t", "unionmcuxClEls__InterruptOptionEn__t.html", [
+      [ "__pad0__", "unionmcuxClEls__InterruptOptionEn__t.html#a71d456bef9a7a21d8ff55bc711a6a3bc", null ],
+      [ "__pad1__", "unionmcuxClEls__InterruptOptionEn__t.html#a502fdb51eeb304aabfd1ed4550ac3258", null ],
+      [ "bits", "unionmcuxClEls__InterruptOptionEn__t.html#a7472d518fe350db3fbfc27c4e07033e3", null ],
+      [ "elsint", "unionmcuxClEls__InterruptOptionEn__t.html#a1ceef382dbc3fbafdff1d553658c7ea9", null ],
+      [ "value", "unionmcuxClEls__InterruptOptionEn__t.html#a24184dcdf86670224ea536fc20a0e4d8", null ],
+      [ "word", "unionmcuxClEls__InterruptOptionEn__t.html#a5415fdcf7c852cc64f0c488dfc546d92", null ]
+    ] ],
+    [ "mcuxClEls_InterruptOptionRst_t", "unionmcuxClEls__InterruptOptionRst__t.html", [
+      [ "__pad0__", "unionmcuxClEls__InterruptOptionRst__t.html#ad560c85d9ea7975330ec5a2e207b30c0", null ],
+      [ "__pad1__", "unionmcuxClEls__InterruptOptionRst__t.html#a188253366e073fdcbdccbaa41ccbe915", null ],
+      [ "bits", "unionmcuxClEls__InterruptOptionRst__t.html#a5308312e5dcbea56bedf0d2f88fb8238", null ],
+      [ "elsint", "unionmcuxClEls__InterruptOptionRst__t.html#a8123125e41c363c03e6a671e94543d3d", null ],
+      [ "value", "unionmcuxClEls__InterruptOptionRst__t.html#afe633f619c2da24bd5a99cf97782924b", null ],
+      [ "word", "unionmcuxClEls__InterruptOptionRst__t.html#a63c56ddfcd305a570cc1c01beccc54c9", null ]
+    ] ],
+    [ "mcuxClEls_InterruptOptionSet_t", "unionmcuxClEls__InterruptOptionSet__t.html", [
+      [ "__pad0__", "unionmcuxClEls__InterruptOptionSet__t.html#a6f7f7fb21a47e0ba886c9c5ebdaae7bf", null ],
+      [ "__pad1__", "unionmcuxClEls__InterruptOptionSet__t.html#a3a1d6b3eaa5f8be52531ddb20f3e85c8", null ],
+      [ "bits", "unionmcuxClEls__InterruptOptionSet__t.html#a5f6c2931bd9f2a8a33493c021c7cbb75", null ],
+      [ "elsint", "unionmcuxClEls__InterruptOptionSet__t.html#a694dd46e51d111832674fdd7827ba7a2", null ],
+      [ "value", "unionmcuxClEls__InterruptOptionSet__t.html#a58934a4a256905327206ee08d8c5931f", null ],
+      [ "word", "unionmcuxClEls__InterruptOptionSet__t.html#a2ce94312a526098f694dccac465b3b66", null ]
+    ] ],
+    [ "drbgreqsub", "group__mcuxClEls__Common__Types.html#ga58d0f81d7d9c40f22d85d048150bbc72", null ],
+    [ "mcuxClEls_ErrorHandling_t", "group__mcuxClEls__Common__Types.html#ga3411a9581b6770690eba6acc6b69c278", null ],
+    [ "mcuxClEls_ResetOption_t", "group__mcuxClEls__Common__Types.html#gab1ed08db7ad22b92ac714d17566d2fff", null ]
+];
